@@ -1,0 +1,32 @@
+[
+  {
+    "_key": "feelings/helpless",
+    "_groupKeys": [
+    	"feelings/sentiment/unpleasant"
+    ],
+    "_name": "Helpless",
+    "_adjustmentFactor": 1.0,
+    "_matchesAreaStdDev": 10.0,
+    "_isStemmed": false,
+    "_words": {
+      "helpless": 3.0,
+      "incapable": 3.0,
+      "alone": 3.0,
+      "paralyzed": 3.0,
+      "fatigued": 3.0,
+      "useless": 3.0,
+      "inferior": 3.0,
+      "vulnerable": 3.0,
+      "empty": 3.0,
+      "forced": 3.0,
+      "hesitant": 3.0,
+      "despair": 3.0,
+      "frustrated": 3.0,
+      "distressed": 3.0,
+      "woeful": 3.0,
+      "pathetic": 3.0,
+      "tragic": 3.0,
+      "dominated": 3.0
+    }
+  }
+]

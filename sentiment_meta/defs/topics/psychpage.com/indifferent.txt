@@ -1,0 +1,28 @@
+[
+  {
+    "_key": "feelings/indifferent",
+    "_groupKeys": [
+    	"feelings/sentiment/unpleasant"
+    ],
+    "_name": "Indifferent",
+    "_adjustmentFactor": 1.0,
+    "_matchesAreaStdDev": 10.0,
+    "_isStemmed": false,
+    "_words": {
+      "indifferent": 3.0,
+      "insensitive": 3.0,
+      "dull": 3.0,
+      "nonchalant": 3.0,
+      "neutral": 3.0,
+      "reserved": 3.0,
+      "weary": 3.0,
+      "bored": 3.0,
+      "preoccupied": 3.0,
+      "cold": 3.0,
+      "disinterested": 3.0,
+      "lifeless": 3.0,
+      "demotivated": 3.0,
+      "unmotivated": 3.0
+    }
+  }
+]

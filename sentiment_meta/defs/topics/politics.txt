@@ -1,0 +1,19 @@
+[
+  {
+    "_key": "topics/politics",
+    "_groupKeys": [
+    	"topics"
+    ],
+    "_name": "Politics",
+    "_adjustmentFactor": 1.0,
+    "_matchesAreaStdDev": 10.0,
+    "_isStemmed": false,
+    "_words": {
+      "elections": 3.0,
+      "government": 2.0,
+      "vote": 2.0,
+      "minister": 2.0,
+      "president": 1.0
+    }
+  }
+]

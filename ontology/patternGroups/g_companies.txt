@@ -1,0 +1,103 @@
+{
+	"_id": "g/companies",
+	"_name": "Companies",
+	"_childGroups": [
+		{
+			"_id": "stock_index",
+			"_name": "Stock Index",
+			"_isTaxonomy": true,
+			"_childGroups": [
+				{
+					"_id": "ftse100",
+					"_name": "FTSE 100",
+					"_childGroups": [
+						{
+							"_id": "sector",
+							"_name": "Sector",
+							"_isTaxonomy": true,
+							"_childGroups": [
+								{
+									"_id": "basic_materials",
+									"_name": "Basic Materials"
+								},
+								{
+									"_id": "capital_goods",
+									"_name": "Capital Goods"
+								},
+								{
+									"_id": "consumer",
+									"_name": "Consumer"
+								},
+								{
+									"_id": "energy",
+									"_name": "Energy"
+								},
+								{
+									"_id": "financial",
+									"_name": "Financial"
+								},
+								{
+									"_id": "healthcare",
+									"_name": "Healthcare"
+								},
+								{
+									"_id": "services",
+									"_name": "Services"
+								},
+								{
+									"_id": "technology",
+									"_name": "Technology"
+								},
+								{
+									"_id": "transportation",
+									"_name": "Transportation"
+								},
+								{
+									"_id": "utilities",
+									"_name": "Utilities"
+								}
+							]
+						}
+					]
+				},
+				{
+					"_id": "nasdaq100",
+					"_name": "NASDAQ 100",
+					"_childGroups": [
+						{
+							"_id": "sector",
+							"_name": "Sector",
+							"_isTaxonomy": true,
+							"_childGroups": [
+								{
+									"_id": "basic_materials",
+									"_name": "Basic Materials"
+								},
+								{
+									"_id": "consumer_goods",
+									"_name": "Consumer Goods"
+								},
+								{
+									"_id": "industrial_goods",
+									"_name": "Industrial Goods"
+								},
+								{
+									"_id": "healthcare",
+									"_name": "Healthcare"
+								},
+								{
+									"_id": "services",
+									"_name": "Services"
+								},
+								{
+									"_id": "technology",
+									"_name": "Technology"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

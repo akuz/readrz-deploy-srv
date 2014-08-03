@@ -1,0 +1,98 @@
+{
+  "_id": "g/topics/entertainment",
+  "_name": "Entertainment",
+  "_isTaxonomy": false,
+  "_childGroups": [
+    {
+      "_id": "media",
+      "_name": "Media",
+      "_isTaxonomy": true,
+      "_childGroups": [
+        {
+          "_id": "music",
+          "_name": "Music",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "film",
+          "_name": "Film",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "tv",
+          "_name": "TV",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "fashion",
+          "_name": "Fashion",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "art",
+          "_name": "Art",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "photo",
+          "_name": "Photo",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "books",
+          "_name": "Books",
+          "_isTaxonomy": false
+        }
+      ]
+    },
+    {
+      "_id": "celebrities",
+      "_name": "Celebrities",
+      "_isTaxonomy": true,
+      "_childGroups": [
+        {
+          "_id": "gossip",
+          "_name": "Gossip",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "royal",
+          "_name": "Royal",
+          "_isTaxonomy": false
+        }
+      ]
+    },
+    {
+      "_id": "lifestyle",
+      "_name": "Lifestyle",
+      "_isTaxonomy": true,
+      "_childGroups": [
+        {
+          "_id": "events",
+          "_name": "Events",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "holidays",
+          "_name": "Holidays",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "weather",
+          "_name": "Weather",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "food",
+          "_name": "Food",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "drinking",
+          "_name": "Drinking",
+          "_isTaxonomy": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "_key": "emotions/joy",
+    "_groupKeys": [
+    	"emotions/sentiment/positive"
+    ],
+    "_name": "Joy",
+    "_adjustmentFactor": 1.0,
+    "_matchesAreaStdDev": 10.0,
+    "_isStemmed": false,
+    "_words": {
+    
+      "joy": 3.0,
+      "joyousness": 3.0,
+      "joyfulness": 3.0,
+      "elation": 3.0,
+      "exultation": 3.0,
+      "jubilance": 3.0,
+      "jubilancy": 3.0,
+      "jubilation": 3.0,
+      "exhilaration": 3.0,
+      "excitement": 3.0,
+      "exuberance": 3.0,
+      "delectation": 3.0,
+      
+      "enjoy": 3.0,
+      "love": 3.0,
+      "bask": 3.0,
+      "relish": 3.0,
+      "savor": 3.0,
+      "savour": 3.0,
+      "devour": 3.0,
+      "delight": 3.0,
+      "revel": 3.0,
+      
+      "enjoyment": 3.0,
+      "pleasantness": 3.0,
+      "comfort": 3.0,
+      
+      "ecstatic": 3.0,
+      "enraptured": 3.0,
+      "rapturous": 3.0,
+      "rapt": 3.0,
+      "rhapsodic": 3.0,
+      "elated": 3.0,
+      "gleeful": 3.0,
+      "joyful": 3.0,
+      "jolly": 3.0,
+      "jocund": 3.0,
+      "jovial": 3.0,
+      "mirthful": 3.0,
+      
+      "exultant": 3.0,
+      "exulting": 3.0,
+      "jubilant": 3.0,
+      "prideful": 3.0,
+      "rejoicing": 3.0,
+      "triumphal": 3.0,
+      "triumphant": 3.0,
+      "gladdened": 3.0,
+      "exhilarated": 3.0,
+      "sublime": 3.0,
+      "uplifted": 3.0,
+      
+      "euphoric": 3.0,
+      "euphoriant": 3.0,
+      
+      "blissful": 3.0,
+      "glad": 3.0
+    }
+  }
+]

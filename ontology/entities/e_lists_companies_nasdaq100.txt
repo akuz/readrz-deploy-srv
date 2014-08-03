@@ -1,0 +1,1377 @@
+{
+  "_id": "e/lists/companies",
+  "_list": [
+  {
+    "_id": "nasdaq_atvi",
+    "_name": "Activision Blizzard, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:ATVI"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?ATVI",
+      "Activision(\\s+Blizzard)?(,?\\s+Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_adbe",
+    "_name": "Adobe Systems Incorporated",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:ADBE"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?ADBE",
+      "Adobe(\\s+Systems)?(\\s+Inc(orporated)?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_akam",
+    "_name": "Akamai Technologies, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:AKAM"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?AKAM",
+      "Akamai(\\s+Technologies)?(,?\\s+Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_alxn",
+    "_name": "Alexion Pharmaceuticals, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/healthcare"
+    ],
+    "_tickers": [
+      "NASDAQ:ALXN"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?ALXN",
+      "Alexion(\\s+Pharmaceuticals)?(,?\\s+Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_altr",
+    "_name": "Altera Corp.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:ALTR"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?ALTR",
+      "Altera(\\s+Corp\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_amzn",
+    "_name": "Amazon.com Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/services"
+    ],
+    "_tickers": [
+      "NASDAQ:AMZN"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?AMZN",
+      "Amazon(\\.com)?(\\s+Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_amgn",
+    "_name": "Amgen Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/healthcare"
+    ],
+    "_tickers": [
+      "NASDAQ:AMGN"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?AMGN",
+      "Amgen(\\s+Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_adi",
+    "_name": "Analog Devices, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:ADI"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?ADI",
+      "Analog\\s+Devices(,?\\s+Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_aapl",
+    "_name": "Apple Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/consumer_goods"
+    ],
+    "_tickers": [
+      "NASDAQ:AAPL"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?AAPL",
+      "Apple(,?\\s+Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_amat",
+    "_name": "Applied Materials, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:AMAT"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?AMAT",
+      "Applied\\s+Materials(,?\\s+Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_adsk",
+    "_name": "Autodesk, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:ADSK"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?ADSK",
+      "Autodesk(,?\\s+Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_adp",
+    "_name": "Automatic Data Processing, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:ADP"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?ADP",
+      "Automatic\\s+Data\\s+Processing(,?\\s+Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_avgo",
+    "_name": "Avago Technologies Limited",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:AVGO"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?AVGO",
+      "Avago\\s+Technologies(\\s+Limited)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_bidu",
+    "_name": "Baidu, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:BIDU"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?BIDU",
+      "Baidu(.com)?(,?\\s+Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_bbby",
+    "_name": "Bed Bath & Beyond Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/services"
+    ],
+    "_tickers": [
+      "NASDAQ:BBBY"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?BBBY",
+      "Bed\\s+Bath(\\s+&|\\s+\\W*(amp|and)\\W*)?\\s+Beyond(,?\\s+Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_biib",
+    "_name": "Biogen Idec Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/healthcare"
+    ],
+    "_tickers": [
+      "NASDAQ:BIIB"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?BIIB",
+      "Biogen\\s+Idec(,?\\s+Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_bmc",
+    "_name": "BMC Software Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:BMC"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?BMC",
+      "BMC\\s+Software(,?\\s+Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_brcm",
+    "_name": "Broadcom Corp.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:BRCM"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?BRCM",
+      "Broadcom(\\s+Corp(\\.|oration)?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_ca",
+    "_name": "CA Technologies",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:CA"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)+CA",
+      "CA\\s+Technologies"
+    ]
+  },
+  {
+    "_id": "nasdaq_chrw",
+    "_name": "C.H. Robinson Worldwide, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/services"
+    ],
+    "_tickers": [
+      "NASDAQ:CHRW"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?CHRW",
+      "C\\.?H\\.?\\s+Robinson(\\s+Worldwide)?(,?\\s+Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_ctrx",
+    "_name": "Catamaran Corporation",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:CTRX"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?CTRX",
+      "Catamaran\\\s+Corp(\\.|oration)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_celg",
+    "_name": "Celgene Corporation",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/healthcare"
+    ],
+    "_tickers": [
+      "NASDAQ:CELG"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?CELG",
+      "Celgene\\s+Corp(\\.|oration)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_cern",
+    "_name": "Cerner Corporation",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:CERN"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)+CERN",
+      "Cerner\\s+Corp(\\.|oration)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_chkp",
+    "_name": "Check Point Software Technologies Ltd.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:CHKP"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?CHKP",
+      "Check\\s+Point\\s+Software(\\s+Technologies)?(\\s+Ltd\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_csco",
+    "_name": "Cisco Systems, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:CSCO"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?CSCO",
+      "Cisco(\\s+Systems)?(,?\\s+Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_ctxs",
+    "_name": "Citrix Systems, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:CTXS"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?CTXS",
+      "Citrix(\\s+Systems)?(,?\\s+Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_ctsh",
+    "_name": "Cognizant Technology Solutions Corporation",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:CTSH"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?CTSH",
+      "Cognizant(\\s+Technology)?(\\s+Solutions)?(\\s+Corp(\\.|oration)?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_cmcsa",
+    "_name": "Comcast Corporation",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/services"
+    ],
+    "_tickers": [
+      "NASDAQ:CMCSA"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?CMCSA",
+      "Comcast(\\s+Corp(\\.|oration)?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_cost",
+    "_name": "Costco Wholesale Corporation",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/services"
+    ],
+    "_tickers": [
+      "NASDAQ:COST"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)+COST",
+      "Costco(\\s+Wholesale)?(\\s+Corp(\\.|oration)?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_dell",
+    "_name": "Dell Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:DELL"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?DELL",
+      "Dell(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_xray",
+    "_name": "DENTSPLY International Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/healthcare"
+    ],
+    "_tickers": [
+      "NASDAQ:XRAY"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)+XRAY",
+      "D(ENTSPLY|entsply)(\\s+International)?(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_dtv",
+    "_name": "DIRECTV",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/services"
+    ],
+    "_tickers": [
+      "NASDAQ:DTV"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?DTV",
+      "D(IRECTV|irectTV)"
+    ]
+  },
+  {
+    "_id": "nasdaq_disca",
+    "_name": "Discovery Communications, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/services"
+    ],
+    "_tickers": [
+      "NASDAQ:DISCA"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?DISCA",
+      "Discovery\\s+Communications(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_dltr",
+    "_name": "Dollar Tree, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/services"
+    ],
+    "_tickers": [
+      "NASDAQ:DLTR"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?DLTR",
+      "Dollar\\s+Tree(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_ebay",
+    "_name": "eBay Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/services"
+    ],
+    "_tickers": [
+      "NASDAQ:EBAY"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?EBAY",
+      "(e|E)Bay(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_eqix",
+    "_name": "Equinix, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:EQIX"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?EQIX",
+      "Equinix(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_expe",
+    "_name": "Expedia Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/services"
+    ],
+    "_tickers": [
+      "NASDAQ:EXPE"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?EXPE",
+      "Expedia(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_expd",
+    "_name": "Expeditors International of Washington Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/services"
+    ],
+    "_tickers": [
+      "NASDAQ:EXPD"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?EXPD",
+      "Expeditors\\s+International\\s+of\\s+Washington(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_esrx",
+    "_name": "Express Scripts Holding Company",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/healthcare"
+    ],
+    "_tickers": [
+      "NASDAQ:ESRX"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?ESRX",
+      "Express\\s+Scripts\\s+Holding(s)?(\\s+Company)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_ffiv",
+    "_name": "F5 Networks, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:FFIV"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?FFIV",
+      "F5\\s+Networks(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_fb",
+    "_name": "Facebook, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:FB"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?FB",
+      "Facebook(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_fast",
+    "_name": "Fastenal Company",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/industrial_goods"
+    ],
+    "_tickers": [
+      "NASDAQ:FAST"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)+FAST",
+      "Fastenal(\\s+Company)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_fisv",
+    "_name": "Fiserv, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/services"
+    ],
+    "_tickers": [
+      "NASDAQ:FISV"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?FISV",
+      "Fiserv(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_fosl",
+    "_name": "Fossil, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/consumer_goods"
+    ],
+    "_tickers": [
+      "NASDAQ:FOSL"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?FOSL",
+      "Fossil(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_grmn",
+    "_name": "Garmin Ltd.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:GRMN"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?GRMN",
+      "Garmin(\\s+Ltd\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_gild",
+    "_name": "Gilead Sciences Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/healthcare"
+    ],
+    "_tickers": [
+      "NASDAQ:GILD"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)+GILD",
+      "Gilead\\s+Sciences(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_goog",
+    "_name": "Google Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:GOOG"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?GOOG",
+      "Google(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_hsic",
+    "_name": "Henry Schein, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/services"
+    ],
+    "_tickers": [
+      "NASDAQ:HSIC"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?HSIC",
+      "Henry\\s+Schein(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_intc",
+    "_name": "Intel Corporation",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:INTC"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?INTC",
+      "Intel(\\s+Corp(\\.|oration)?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_intu",
+    "_name": "Intuit Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:INTU"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?INTU",
+      "Intuit(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_isrg",
+    "_name": "Intuitive Surgical, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/healthcare"
+    ],
+    "_tickers": [
+      "NASDAQ:ISRG"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?ISRG",
+      "Intuitive\\s+Surgical(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_klac",
+    "_name": "KLA-Tencor Corporation",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:KLAC"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?KLAC",
+      "KLA-Tencor(\\s+Corp(\\.|oration)?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_krft",
+    "_name": "Kraft Foods Group, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/consumer_goods"
+    ],
+    "_tickers": [
+      "NASDAQ:KRFT"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?KRFT",
+      "Kraft\\s+Foods(\\s+Group)?(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_linta",
+    "_name": "Liberty Interactive Corporation",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/services"
+    ],
+    "_tickers": [
+      "NASDAQ:LINTA"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?LINTA",
+      "Liberty\\s+Interactive(\\s+Corp(\\.|oration)?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_life",
+    "_name": "Life Technologies Corporation",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/healthcare"
+    ],
+    "_tickers": [
+      "NASDAQ:LIFE"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)+LIFE",
+      "Life\\s+Technologies(\\s+Corp(\\.|oration)?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_lltc",
+    "_name": "Linear Technology Corporation",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:LLTC"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?LLTC",
+      "Linear\\s+Technology(\\s+Corp(\\.|oration)?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_mat",
+    "_name": "Mattel, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/consumer_goods"
+    ],
+    "_tickers": [
+      "NASDAQ:MAT"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?MAT",
+      "Mattel(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_mxim",
+    "_name": "Maxim Integrated Products, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:MXIM"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?MXIM",
+      "Maxim\\s+Integrated(\\s+Products)?(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_mchp",
+    "_name": "Microchip Technology Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:MCHP"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?MCHP",
+      "Microchip\\s+Technology(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_mu",
+    "_name": "Micron Technology Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:MU"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)+MU",
+      "Micron\\s+Technology(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_msft",
+    "_name": "Microsoft Corporation",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:MSFT"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?MSFT",
+      "Microsoft(\\s+Corp(\\.|oration)?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_mdlz",
+    "_name": "Mondelez International, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/consumer_goods"
+    ],
+    "_tickers": [
+      "NASDAQ:MDLZ"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?MDLZ",
+      "Mondelez(\\s+International)?(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_mnst",
+    "_name": "Monster Beverage Corporation",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/consumer_goods"
+    ],
+    "_tickers": [
+      "NASDAQ:MNST"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?MNST",
+      "Monster\\s+Beverage(\\s+Corp(\\.|oration)?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_myl",
+    "_name": "Mylan, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/healthcare"
+    ],
+    "_tickers": [
+      "NASDAQ:MYL"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?MYL",
+      "Mylan(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_ntap",
+    "_name": "NetApp, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:NTAP"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?NTAP",
+      "NetApp(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_nwsa",
+    "_name": "News Corp.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/services"
+    ],
+    "_tickers": [
+      "NASDAQ:NWSA"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?NWSA",
+      "News\\s+Corp(\\.|oration)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_nuan",
+    "_name": "Nuance Communications, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:NUAN"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?NUAN",
+      "Nuance\\s+Communications(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_nvda",
+    "_name": "NVIDIA Corporation",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:NVDA"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?NVDA",
+      "NVIDIA(\\s+Corp(\\.|oration)?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_orly",
+    "_name": "O'Reilly Automotive Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/services"
+    ],
+    "_tickers": [
+      "NASDAQ:ORLY"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?ORLY",
+      "O(\\W(apos\\W)?)Reilly\\s+Automotive(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_orcl",
+    "_name": "Oracle Corporation",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:ORLY"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?ORCL",
+      "Oracle\\s+Corp(\\.|oration)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_pcar",
+    "_name": "PACCAR Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/consumer_goods"
+    ],
+    "_tickers": [
+      "NASDAQ:PCAR"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?PCAR",
+      "P(ACCAR|accar)(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_payx",
+    "_name": "Paychex, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/services"
+    ],
+    "_tickers": [
+      "NASDAQ:PAYX"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?PAYX",
+      "Paychex(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_prgo",
+    "_name": "Perrigo Company",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/healthcare"
+    ],
+    "_tickers": [
+      "NASDAQ:PRGO"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?PRGO",
+      "Perrigo\\s+Company"
+    ]
+  },
+  {
+    "_id": "nasdaq_pcln",
+    "_name": "Priceline.com Incorporated",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/services"
+    ],
+    "_tickers": [
+      "NASDAQ:PCLN"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?PCLN",
+      "[P|p]riceline(\\.com)?(\\s+,?Inc(\\.|orporated)?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_qcom",
+    "_name": "QUALCOMM Incorporated",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:QCOM"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?QCOM",
+      "QUALCOMM(\\s+,?Inc(\\.|orporated)?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_gold",
+    "_name": "Randgold Resources Limited",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/basic_materials"
+    ],
+    "_tickers": [
+      "NASDAQ:GOLD"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)+GOLD",
+      "Randgold\\s+Resources(\\s+(Ltd|Limited))?"
+    ]
+  },
+  {
+    "_id": "nasdaq_regn",
+    "_name": "Regeneron Pharmaceuticals, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/healthcare"
+    ],
+    "_tickers": [
+      "NASDAQ:REGN"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?REGN",
+      "Regeneron\\s+Pharmaceuticals(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_rost",
+    "_name": "Ross Stores Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/services"
+    ],
+    "_tickers": [
+      "NASDAQ:ROST"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?ROSR",
+      "Ross\\s+Stores(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_sndk",
+    "_name": "SanDisk Corp.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:SNDK"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?SNDK",
+      "SanDisk(\\s+Corp(\\.|oration)?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_sbac",
+    "_name": "SBA Communications Corp.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/services"
+    ],
+    "_tickers": [
+      "NASDAQ:SBAC"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?SBAC",
+      "SBA\\s+Communications(\\s+Corp(\\.|oration)?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_stx",
+    "_name": "Seagate Technology Public Limited Company",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:STX"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?STX",
+      "Seagate(\\s+Technology)?(\\s+Public)?(\\s+Limited)?(\\s+Company)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_shld",
+    "_name": "Sears Holdings Corporation",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/services"
+    ],
+    "_tickers": [
+      "NASDAQ:SHLD"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?SHLD",
+      "Sears\\s+Holdings(\\s+Corp(\\.|oration)?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_sial",
+    "_name": "Sigma-Aldrich Corporation",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/basic_materials"
+    ],
+    "_tickers": [
+      "NASDAQ:SIAL"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?SIAL",
+      "Sigma-Aldrich(\\s+Corp(\\.|oration)?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_siri",
+    "_name": "SIRIUS XM Radio Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/services"
+    ],
+    "_tickers": [
+      "NASDAQ:SIRI"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)+SIRI",
+      "S(IRIUS|irius)\\s+XM(\\s+Radio)?(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_spls",
+    "_name": "Staples, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/services"
+    ],
+    "_tickers": [
+      "NASDAQ:SPLS"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?SPLS",
+      "Staples(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_sbux",
+    "_name": "Starbucks Corporation",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/services"
+    ],
+    "_tickers": [
+      "NASDAQ:SBUX"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?SBUX",
+      "Starbucks(\\s+Corp(\\.|oration)?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_srcl",
+    "_name": "Stericycle, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/industrial_goods"
+    ],
+    "_tickers": [
+      "NASDAQ:SRCL"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?SRCL",
+      "Stericycle(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_symc",
+    "_name": "Symantec Corporation",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:SYMC"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?SYMC",
+      "Symantec(\\s+Corp(\\.|oration)?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_txn",
+    "_name": "Texas Instruments Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:TXN"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?TXN",
+      "Texas\\s+Instruments(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_vrsk",
+    "_name": "Verisk Analytics, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/services"
+    ],
+    "_tickers": [
+      "NASDAQ:VRSK"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?VRSK",
+      "Verisk\\s+Analytics(\\s+,?Inc\\.?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_vrtx",
+    "_name": "Vertex Pharmaceuticals Incorporated",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/healthcare"
+    ],
+    "_tickers": [
+      "NASDAQ:VRTX"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?VRTX",
+      "Vertex\\s+Pharmaceuticals(\\s+,?Inc(\\.|orporated)?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_vmed",
+    "_name": "Virgin Media, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/services"
+    ],
+    "_tickers": [
+      "NASDAQ:VMED"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?VMED",
+      "Virgin\\s+Media(\\s+,?Inc(\\.|orporated)?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_vod",
+    "_name": "Vodafone Group Plc",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/services"
+    ],
+    "_tickers": [
+      "NASDAQ:VOD"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?VOD",
+      "Vodafone(\\s+Group)?([Pp]lc|Public\\s+Limited\\s+Company)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_vdc",
+    "_name": "Western Digital Corporation",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:VDC"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?VDC",
+      "Western\\s+Digital(\\s+Corp(\\.|oration)?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_wfm",
+    "_name": "Whole Foods Market, Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/services"
+    ],
+    "_tickers": [
+      "NASDAQ:WFM"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?WFM",
+      "Whole\\s+Foods(\\s+Market)?(\\s+,?Inc(\\.|orporated)?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_wynn",
+    "_name": "Wynn Resorts Ltd.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/services"
+    ],
+    "_tickers": [
+      "NASDAQ:WYNN"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?WYNN",
+      "Wynn\\s+Resorts(\\s+(Ltd\\.?|Limited))?"
+    ]
+  },
+  {
+    "_id": "nasdaq_xlnx",
+    "_name": "Xilinx Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:XLNX"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?XLNX",
+      "Xilinx(\\s+,?Inc(\\.|orporated)?)?"
+    ]
+  },
+  {
+    "_id": "nasdaq_yhoo",
+    "_name": "Yahoo! Inc.",
+    "_groupIds": [
+      "g/companies/stock_index/nasdaq100/sector/technology"
+    ],
+    "_tickers": [
+      "NASDAQ:YHOO"
+    ],
+    "_patterns": [
+      "(NASDAQ:\\s*)?YHOO",
+      "Yahoo(!)?(\\s+,?Inc(\\.|orporated)?)?"
+    ]
+  }
+  ]
+}

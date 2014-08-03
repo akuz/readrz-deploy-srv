@@ -1,0 +1,13 @@
+[
+  {
+    "_id": 1,
+    "_name": "FTSE 100",
+    "_category": "Finance",
+    "_entityIds": [
+      {
+        "_start": 10000,
+        "_end": 10100
+      }
+    ]
+  }
+]

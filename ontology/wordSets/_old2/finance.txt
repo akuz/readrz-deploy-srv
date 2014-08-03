@@ -1,0 +1,20 @@
+[
+  {
+    "_key": "topics/finance",
+    "_groupKeys": [
+    	"topics"
+    ],
+    "_name": "Finance",
+    "_adjustmentFactor": 1.0,
+    "_matchesAreaStdDev": 10.0,
+    "_isStemmed": false,
+    "_words": {
+      "earnings": 3.0,
+      "profits": 3.0,
+      "balance": 1.0,
+      "quarter": 1.0,
+      "report": 1.0,
+      "annual": 1.0
+    }
+  }
+]

@@ -1,0 +1,79 @@
+{
+  "_id": "e/concepts/finance",
+  "_list": [
+  {
+    "_id": "economy",
+    "_name": "Economy",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "[Ee]conom(y|ic)"
+    ]
+  },
+  {
+    "_id": "bank_of_england",
+    "_name": "Bank of England",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "Bank\\s+of\\s+England",
+      "BoE"
+    ]
+  },
+  {
+    "_id": "fed",
+    "_name": "Federal Reserve",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "Fed(eral\\s+Reserve)?"
+    ]
+  },
+  {
+    "_id": "ipo",
+    "_name": "IPO",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "IPO",
+      "I\.P\.O\."
+    ]
+  },
+  {
+    "_id": "exchange_rate",
+    "_name": "Exchange Rate",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "[Ee]xchange\\s+[Rr]ate"
+    ]
+  },
+  {
+    "_id": "interest_rate",
+    "_name": "Interest Rate",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "[Ii]nterest\\s+[Rr]ate"
+    ]
+  },
+  {
+    "_id": "fiscal_cliff",
+    "_name": "Fiscal Cliff",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "[Ff]iscal\\s+[Cc]liff"
+    ]
+  },
+  {
+    "_id": "credit_crisis",
+    "_name": "Credit Crisis",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "[Cc]redit\\s+[Cc]risis"
+    ]
+  }
+  ]
+}

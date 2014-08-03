@@ -1,0 +1,32 @@
+{
+  "_id": "e/concepts/places",
+  "_list": [
+  {
+    "_id": "silicon_valley",
+    "_name": "Silicon Valley",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "[Ss]ilicon\\s+[Vv]alley"
+    ]
+  },
+  {
+    "_id": "silicon_alley",
+    "_name": "Silicon Alley",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "[Ss]ilicon\\s+[Aa]lley"
+    ]
+  },
+  {
+    "_id": "silicon_roundabout",
+    "_name": "Silicon Roundabout",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "[Ss]ilicon\\s+[Rr]oundabout"
+    ]
+  }
+  ]
+}

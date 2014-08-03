@@ -1,0 +1,33 @@
+[
+  {
+    "_key": "feelings/hurt",
+    "_groupKeys": [
+    	"feelings/sentiment/unpleasant"
+    ],
+    "_name": "Hurt",
+    "_adjustmentFactor": 1.0,
+    "_matchesAreaStdDev": 10.0,
+    "_isStemmed": false,
+    "_words": {
+      "hurt": 3.0,
+      "crushed": 3.0,
+      "tormented": 3.0,
+      "deprived": 3.0,
+      "pained": 3.0,
+      "tortured": 3.0,
+      "dejected": 3.0,
+      "rejected": 3.0,
+      "injured": 3.0,
+      "offended": 3.0,
+      "afflicted": 3.0,
+      "aching": 3.0,
+      "victimized": 3.0,
+      "heartbroken": 3.0,
+      "agonized": 3.0,
+      "appalled": 3.0,
+      "humiliated": 3.0,
+      "wronged": 3.0,
+      "alienated": 3.0
+    }
+  }
+]

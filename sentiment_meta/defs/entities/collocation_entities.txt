@@ -1,0 +1,325 @@
+[
+  {
+    "_key": "nuclear",
+    "_name": "Nuclear",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "[Nn]uke(s|d)?",
+      "[Aa]tomic",
+      "[Nn]uclear"
+    ]
+  },
+  {
+    "_key": "recognise",
+    "_name": "Recognise",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "[Rr]ecogni(tion|(z|s)(ing|e[ds]?))"
+    ]
+  },
+  {
+    "_key": "mob_phone",
+    "_name": "Mobile Phone",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "[Cc]ell\\s*[Pp]hones?",
+      "[Mm]obile\\s+[Pp]hones?"
+    ]
+  },
+  {
+    "_key": "mark_cuban",
+    "_name": "Mark Cuban",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "Mark\\s+Cuban"
+    ]
+  },
+  {
+    "_key": "indian_american",
+    "_name": "Indian American",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "Indian\\s+American",
+      "American\\s+Indian"
+    ]
+  },
+  {
+    "_key": "economy",
+    "_name": "Economy",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "[Ee]conom(y|ic)"
+    ]
+  },
+  {
+    "_key": "catalonia",
+    "_name": "Catalonia",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "Catal(an|onia)"
+    ]
+  },
+  {
+    "_key": "step_up",
+    "_name": "Step Up",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "[Ss]tep\\s+up"
+    ]
+  },
+  {
+    "_key": "largest",
+    "_name": "Largest",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "[Ll]argest",
+      "[Bb]iggest"
+    ]
+  },
+  {
+    "_key": "kick_start",
+    "_name": "Kick Start",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "[Kk]ick\\s+start"
+    ]
+  },
+  {
+    "_key": "spec_oper",
+    "_name": "Special Operation",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "[Ss]pecial\\s+[Oo]perations?"
+    ]
+  },
+  {
+    "_key": "presid_elect",
+    "_name": "Presidential Elections",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "[Pp]residential\\s+[Ee]lections?"
+    ]
+  },
+  {
+    "_key": "exch_rate",
+    "_name": "Exchange Rate",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "[Ee]xchange\\s+[Rr]ate"
+    ]
+  },
+  {
+    "_key": "intrst_rate",
+    "_name": "Interest Rate",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "[Ii]nterest\\s+[Rr]ate"
+    ]
+  },
+  {
+    "_key": "unempl_rate",
+    "_name": "Unemployment Rate",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "[Uu]nemployment\\s+[Rr]ate"
+    ]
+  },
+  {
+    "_key": "defence",
+    "_name": "Defence",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "[Dd]efen(c|s)e"
+    ]
+  },
+  {
+    "_key": "defence_dep",
+    "_name": "Defence Department",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "[Dd]efen(s|c)e\\s+[Dd]epartment"
+    ]
+  },
+  {
+    "_key": "fed_gov",
+    "_name": "Federal Government",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "[Ff]ederal\\s+[Gg]overnment"
+    ]
+  },
+  {
+    "_key": "far_east",
+    "_name": "Far East",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "[Ff]ar\\s+[Ee]ast"
+    ]
+  },
+  {
+    "_key": "mid_east",
+    "_name": "Middle East",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "[Mm]iddle\\s+[Ee]ast"
+    ]
+  },
+  {
+    "_key": "fisc_cliff",
+    "_name": "Fisscal Cliff",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "[Ff]iscal\\s+[Cc]liff"
+    ]
+  },
+  {
+    "_key": "cred_cris",
+    "_name": "Credit Crisis",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "[Cc]redit\\s+[Cc]risis"
+    ]
+  },
+  {
+    "_key": "e_u",
+    "_name": "E.U.",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "[Ee]uropean\\s+[Uu]nion",
+      "E\\.U\\.",
+      "EU"
+    ]
+  },
+  {
+    "_key": "j_bond",
+    "_name": "J. Bond",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "James\\s+Bond"
+    ]
+  },
+  {
+    "_key": "d_craig",
+    "_name": "D. Craig",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "Daniel\\s+Craig"
+    ]
+  },
+  {
+    "_key": "d_cameron",
+    "_name": "D. Cameron",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "(David\\s+)?Cameron"
+    ]
+  },
+  {
+    "_key": "a_merkel",
+    "_name": "A. Merkel",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "(Angela\\s+)?Merkel"
+    ]
+  },
+  {
+    "_key": "v_putin",
+    "_name": "V. Putin",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "([Pp]resident\\s+)?(Vladimir\\s+)?Putin"
+    ]
+  },
+  {
+    "_key": "h_chavez",
+    "_name": "H. Chavez",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "(Hugo\\s+)?Chavez"
+    ]
+  },
+  {
+    "_key": "m_romney",
+    "_name": "M. Romney",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "(Mitt\\s+)?Romney"
+    ]
+  },
+  {
+    "_key": "b_obama",
+    "_name": "B. Obama",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "([Pp]resident\\s+)?(Barack\\s+)?Obama"
+    ]
+  },
+  {
+    "_key": "b_clinton",
+    "_name": "B. Clinton",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "Bill\\s+Clinton"
+    ]
+  },
+  {
+    "_key": "h_clinton",
+    "_name": "H. Clinton",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "Hill?ary\\s+Clinton"
+    ]
+  },
+  {
+    "_key": "pr_minst",
+    "_name": "Prime Minister",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "[Pp]rime\\s+[Mm]inister"
+    ]
+  },
+  {
+    "_key": "st_secretary",
+    "_name": "State Secretary",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "[Ss]tate\\s+[Ss]ecretary",
+      "[Ss]ecretary\\s+of\\s+[Ss]tate"
+    ]
+  }
+]

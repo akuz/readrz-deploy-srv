@@ -1,0 +1,25 @@
+[
+  {
+    "_key": "feelings/strong",
+    "_groupKeys": [
+    	"feelings/sentiment/pleasant"
+    ],
+    "_name": "Strong",
+    "_adjustmentFactor": 1.0,
+    "_matchesAreaStdDev": 10.0,
+    "_isStemmed": false,
+    "_words": {
+      "strong": 3.0,
+      "impulsive": 3.0,
+      "free": 3.0,
+      "sure": 3.0,
+      "certain": 3.0,
+      "rebellious": 3.0,
+      "unique": 3.0,
+      "dynamic": 3.0,
+      "tenacious": 3.0,
+      "hardy": 3.0,
+      "secure": 3.0
+    }
+  }
+]

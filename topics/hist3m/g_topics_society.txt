@@ -1,0 +1,93 @@
+{
+  "_id": "g/topics/society",
+  "_name": "Society",
+  "_isTaxonomy": false,
+  "_childGroups": [
+    {
+      "_id": "conflicts",
+      "_name": "Conflicts",
+      "_isTaxonomy": true,
+      "_childGroups": [
+        {
+          "_id": "protests",
+          "_name": "Protests",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "terror",
+          "_name": "Terror",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "war",
+          "_name": "War",
+          "_isTaxonomy": false
+        }
+      ]
+    },
+    {
+      "_id": "crime",
+      "_name": "Crime",
+      "_isTaxonomy": true,
+      "_childGroups": [
+        {
+          "_id": "victims",
+          "_name": "Victims",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "investigation",
+          "_name": "Investigation",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "prosecution",
+          "_name": "Prosecution",
+          "_isTaxonomy": false
+        }
+      ]
+    },
+    {
+      "_id": "issues",
+      "_name": "Issues",
+      "_isTaxonomy": true,
+      "_childGroups": [
+        {
+          "_id": "education",
+          "_name": "Education",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "human_rights",
+          "_name": "Human Rights",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "religion",
+          "_name": "Religion",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "charity",
+          "_name": "Charity",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "health",
+          "_name": "Health",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "harassment",
+          "_name": "Harassment",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "gender",
+          "_name": "Gender",
+          "_isTaxonomy": false
+        }
+      ]
+    }
+  ]
+}

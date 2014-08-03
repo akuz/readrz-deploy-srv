@@ -1,0 +1,246 @@
+{
+	"_key": "countries",
+	"_name": "Countries",
+	"_childGroups": [
+		{
+			"_key": "un_region",
+			"_name": "UN Region",
+			"_isTaxonomy": true,
+			"_isIgnoredForFullName": true,
+			"_childGroups": [
+				{
+					"_key": "africa",
+					"_name": "Africa",
+					"_childGroups": [
+						{
+							"_key": "un_subregion",
+							"_name": "UN Subregion",
+							"_isTaxonomy": true,
+							"_isIgnoredForFullName": true,
+							"_childGroups": [
+								{
+									"_key": "east_africa",
+									"_name": "East Africa"
+								},
+								{
+									"_key": "central_africa",
+									"_name": "Central Africa"
+								},
+								{
+									"_key": "north_africa",
+									"_name": "North Africa"
+								},
+								{
+									"_key": "southern_africa",
+									"_name": "Southern Africa"
+								},
+								{
+									"_key": "west_africa",
+									"_name": "West Africa"
+								}
+							]
+						}
+					]
+				},
+				{
+					"_key": "asia",
+					"_name": "Asia",
+					"_childGroups": [
+						{
+							"_key": "un_subregion",
+							"_name": "UN Subregion",
+							"_isTaxonomy": true,
+							"_isIgnoredForFullName": true,
+							"_childGroups": [
+								{
+									"_key": "central_asia",
+									"_name": "Central Asia"
+								},
+								{
+									"_key": "east_asia",
+									"_name": "East Asia"
+								},
+								{
+									"_key": "south_asia",
+									"_name": "South Asia"
+								},
+								{
+									"_key": "southeast_asia",
+									"_name": "Southeast Asia"
+								},
+								{
+									"_key": "western_asia",
+									"_name": "Western Asia"
+								}
+							]
+						},
+						{
+							"_key": "geopolitics",
+							"_name": "Geopolitics",
+							"_isTaxonomy": true,
+							"_isSecondaryTaxonomy": true,
+							"_isIgnoredForFullName": true,
+							"_childGroups": [
+								{
+									"_key": "middle_east",
+									"_name": "Middle East"
+								},
+								{
+									"_key": "greater_middle_east",
+									"_name": "Greater Middle East"
+								}
+							]
+						}
+					]
+				},
+				{
+					"_key": "europe",
+					"_name": "Europe",
+					"_childGroups": [
+						{
+							"_key": "un_subregion",
+							"_name": "UN Subregion",
+							"_isTaxonomy": true,
+							"_isIgnoredForFullName": true,
+							"_childGroups": [
+								{
+									"_key": "eastern_europe",
+									"_name": "Eastern Europe"
+								},
+								{
+									"_key": "northern_europe",
+									"_name": "Northern Europe"
+								},
+								{
+									"_key": "southern_europe",
+									"_name": "Southern Europe"
+								},
+								{
+									"_key": "western_europe",
+									"_name": "Western Europe"
+								}
+							]
+						},
+						{
+							"_key": "other_groupings",
+							"_name": "Other Groupings",
+							"_isTaxonomy": true,
+							"_isSecondaryTaxonomy": true,
+							"_isIgnoredForFullName": true,
+							"_childGroups": [
+								{
+									"_key": "baltic_states",
+									"_name": "Baltic States"
+								},
+								{
+									"_key": "benelux",
+									"_name": "Benelux"
+								},
+								{
+									"_key": "caucasus",
+									"_name": "Caucasus"
+								},
+								{
+									"_key": "central_europe",
+									"_name": "Central Europe"
+								},
+								{
+									"_key": "nordic_countries",
+									"_name": "Nordic Countries"
+								},
+								{
+									"_key": "visegrad_group",
+									"_name": "Visegrad Group"
+								}
+							]
+						}
+					]
+				},
+				{
+					"_key": "americas",
+					"_name": "Americas",
+					"_childGroups": [
+						{
+							"_key": "un_subregion",
+							"_name": "UN Subregion",
+							"_isTaxonomy": true,
+							"_isIgnoredForFullName": true,
+							"_childGroups": [
+								{
+									"_key": "caribbean",
+									"_name": "Caribbean"
+								},
+								{
+									"_key": "central_america",
+									"_name": "Central America"
+								},
+								{
+									"_key": "northern_america",
+									"_name": "Northern America"
+								},
+								{
+									"_key": "south_america",
+									"_name": "South America"
+								}
+							]
+						}
+					]
+				},
+				{
+					"_key": "antarctica",
+					"_name": "Antarctica"
+				},
+				{
+					"_key": "oceania",
+					"_name": "Oceania",
+					"_childGroups": [
+						{
+							"_key": "un_subregion",
+							"_name": "UN Subregion",
+							"_isTaxonomy": true,
+							"_isIgnoredForFullName": true,
+							"_childGroups": [
+								{
+									"_key": "aus_and_nz",
+									"_name": "AUS and NZ"
+								},
+								{
+									"_key": "melanesia",
+									"_name": "Melanesia"
+								},
+								{
+									"_key": "micronesia",
+									"_name": "Micronesia"
+								},
+								{
+									"_key": "polynesia",
+									"_name": "Polynesia"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"_key": "economic_group",
+			"_name": "Economic Group",
+			"_isTaxonomy": true,
+			"_isSecondaryTaxonomy": true,
+			"_childGroups": [
+				{
+					"_key": "g8",
+					"_name": "G8"
+				},
+				{
+					"_key": "next12",
+					"_name": "Next12"
+				},
+				{
+					"_key": "brics",
+					"_name": "BRICS"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "_key": "emotions/worry",
+    "_groupKeys": [
+    	"emotions/sentiment/negative"
+    ],
+    "_name": "Worry",
+    "_adjustmentFactor": 3.0,
+    "_matchesAreaStdDev": 10.0,
+    "_isStemmed": false,
+    "_words": {
+      "worry": 3.0,
+      "concern": 3.0,
+      "headache": 3.0,
+      "vexation": 3.0,
+      "trouble": 3.0,
+      "anxious": 3.0,
+      "anxiety": 3.0,
+      "hypochondria": 3.0,
+      "overanxiety": 3.0,
+      "anxiousness": 3.0,
+      "insecurity": 3.0,
+      "edginess": 3.0,
+      "uneasiness": 3.0,
+      "inquietude": 3.0,
+      "disquietude": 3.0,
+      "jitteriness": 3.0,
+      "jumpiness": 3.0,
+      "nervousness": 3.0,
+      "restiveness": 3.0,
+      "burden": 3.0,
+      "incumbrance": 3.0,
+      "encumbrance": 3.0,
+      "obsess": 3.0
+    }
+  }
+]

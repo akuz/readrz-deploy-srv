@@ -1,0 +1,28 @@
+[
+  {
+    "_key": "feelings/sad",
+    "_groupKeys": [
+    	"feelings/sentiment/unpleasant"
+    ],
+    "_name": "Sad",
+    "_adjustmentFactor": 1.0,
+    "_matchesAreaStdDev": 10.0,
+    "_isStemmed": false,
+    "_words": {
+      "sad": 3.0,
+      "tearful": 3.0,
+      "sorrowful": 3.0,
+      "pained": 3.0,
+      "grief": 3.0,
+      "anguish": 3.0,
+      "desolate": 3.0,
+      "desperate": 3.0,
+      "pessimistic": 3.0,
+      "unhappy": 3.0,
+      "lonely": 3.0,
+      "grieved": 3.0,
+      "mournful": 3.0,
+      "dismayed": 3.0
+    }
+  }
+]

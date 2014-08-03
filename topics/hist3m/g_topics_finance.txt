@@ -1,0 +1,110 @@
+{
+  "_id": "g/topics/finance",
+  "_name": "Finance",
+  "_isTaxonomy": false,
+  "_childGroups": [
+    {
+      "_id": "economy",
+      "_name": "Economy",
+      "_isTaxonomy": true,
+      "_childGroups": [
+        {
+          "_id": "market",
+          "_name": "Market",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "gov_policy",
+          "_name": "Gov. Policy",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "production",
+          "_name": "Production",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "real_estate",
+          "_name": "Real Estate",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "workers",
+          "_name": "Workers",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "jobs",
+          "_name": "Jobs",
+          "_isTaxonomy": false
+        }
+      ]
+    },
+    {
+      "_id": "sectors",
+      "_name": "Sectors",
+      "_isTaxonomy": true,
+      "_childGroups": [
+        {
+          "_id": "banking",
+          "_name": "Banking",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "capital",
+          "_name": "Capital",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "energy",
+          "_name": "Energy",
+          "_isTaxonomy": false
+        }
+      ]
+    },
+    {
+      "_id": "stocks",
+      "_name": "Stocks",
+      "_isTaxonomy": true,
+      "_childGroups": [
+        {
+          "_id": "stock_market",
+          "_name": "Stock Market",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "ratings",
+          "_name": "Ratings",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "results",
+          "_name": "Results",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "conf_calls",
+          "_name": "Conf. Calls",
+          "_isTaxonomy": false
+        }
+      ]
+    },
+    {
+      "_id": "events",
+      "_name": "Events",
+      "_isTaxonomy": true,
+      "_childGroups": [
+        {
+          "_id": "distress",
+          "_name": "Distress",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "fin_crime",
+          "_name": "Fin. Crime",
+          "_isTaxonomy": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "g/topics/science",
+  "_name": "Science",
+  "_isTaxonomy": false,
+  "_childGroups": [
+    {
+      "_id": "sectors",
+      "_name": "Sectors",
+      "_isTaxonomy": true,
+      "_childGroups": [
+        {
+          "_id": "natural",
+          "_name": "Natural",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "med_bio",
+          "_name": "Med-Bio",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "climate",
+          "_name": "Climate",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "animals",
+          "_name": "Animals",
+          "_isTaxonomy": false
+        }
+      ]
+    }
+  ]
+}

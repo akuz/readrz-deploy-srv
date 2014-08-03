@@ -1,0 +1,3053 @@
+[
+  {
+    "_key": "countries/afghanistan",
+    "_name": "Afghanistan",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/south_asia",
+    	"countries/un_region/asia/geopolitics/greater_middle_east"
+    ],
+    "_attributes": {
+      "search": "Afghanistan"
+    },
+    "_patterns": [
+      "((Islamic\\s+)?Republic\\s+of\\s+)?Afghan(istan)?(i(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/albania",
+    "_name": "Albania",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/southern_europe"
+    ],
+    "_attributes": {
+      "search": "Albania"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Albania(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/algeria",
+    "_name": "Algeria",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/north_africa",
+    	"countries/un_region/asia/geopolitics/greater_middle_east"
+    ],
+    "_attributes": {
+      "search": "Algeria"
+    },
+    "_patterns": [
+      "(((People's\\s+)?Democratic\\s+)?Republic\\s+of\\s+)?Algeria(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/andorra",
+    "_name": "Andorra",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/southern_europe"
+    ],
+    "_attributes": {
+      "search": "Andorra"
+    },
+    "_patterns": [
+      "(Principality\\s+of\\s+)?Andorra"
+    ]
+  },
+  {
+    "_key": "countries/angola",
+    "_name": "Angola",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/central_africa"
+    ],
+    "_attributes": {
+      "search": "Angola"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Angol(a|ese)"
+    ]
+  },
+  {
+    "_key": "countries/antigua_and_barbuda",
+    "_name": "Antigua and Barbuda",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/caribbean"
+    ],
+    "_attributes": {
+      "search": "Antigua and Barbuda"
+    },
+    "_patterns": [
+      "Antigua\\s+and\\s+Barbuda"
+    ]
+  },
+  {
+    "_key": "countries/argentina",
+    "_name": "Argentina",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/south_america",
+		"countries/economic_group/next12"
+    ],
+    "_attributes": {
+      "search": "Argentina"
+    },
+    "_patterns": [
+      "Argentin(a|ian(s)?)",
+      "Argentine\\s+Republic"
+    ]
+  },
+  {
+    "_key": "countries/armenia",
+    "_name": "Armenia",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/western_asia",
+    	"countries/un_region/asia/geopolitics/greater_middle_east",
+    	"countries/un_region/europe/other_groupings/caucasus"
+    ],
+    "_attributes": {
+      "search": "Armenia"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Armenia(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/australia",
+    "_name": "Australia",
+    "_groupKeys": [
+    	"countries/un_region/oceania/un_subregion/aus_and_nz",
+		"countries/economic_group/next12"
+    ],
+    "_attributes": {
+      "search": "Australia"
+    },
+    "_patterns": [
+      "(Commonwealth\\s+of\\s+)?Australia(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/austria",
+    "_name": "Austria",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/western_europe",
+    	"countries/un_region/europe/other_groupings/central_europe"
+    ],
+    "_attributes": {
+      "search": "Austria"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Austria(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/azerbaijan",
+    "_name": "Azerbaijan",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/western_asia",
+    	"countries/un_region/asia/geopolitics/greater_middle_east",
+    	"countries/un_region/europe/other_groupings/caucasus"
+    ],
+    "_attributes": {
+      "search": "Azerbaijan"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Azerbaijan(i(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/bahamas",
+    "_name": "Bahamas",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/caribbean"
+    ],
+    "_attributes": {
+      "search": "Bahamas"
+    },
+    "_patterns": [
+      "((Commonwealth\\s+of\\s+)?(T|t)he\\s+)?Bahamas"
+    ]
+  },
+  {
+    "_key": "countries/bahrain",
+    "_name": "Bahrain",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/western_asia",
+    	"countries/un_region/asia/geopolitics/middle_east"
+    ],
+    "_attributes": {
+      "search": "Bahrain"
+    },
+    "_patterns": [
+      "(Kingdom\\s+of\\s+)?Bahrain(i(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/bangladesh",
+    "_name": "Bangladesh",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/south_asia"
+    ],
+    "_attributes": {
+      "search": "Bangladesh"
+    },
+    "_patterns": [
+      "((People's\\s+)?Republic\\s+of\\s+)?Bangladesh(i(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/barbados",
+    "_name": "Barbados",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/caribbean"
+    ],
+    "_attributes": {
+      "search": "Barbados"
+    },
+    "_patterns": [
+      "Barbados"
+    ]
+  },
+  {
+    "_key": "countries/belarus",
+    "_name": "Belarus",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/eastern_europe"
+    ],
+    "_attributes": {
+      "search": "Belarus"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Belarus(ian(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/belgium",
+    "_name": "Belgium",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/western_europe",
+    	"countries/un_region/europe/other_groupings/benelux"
+    ],
+    "_attributes": {
+      "search": "Belgium"
+    },
+    "_patterns": [
+      "(Kingdom\\s+of\\s+)?Belgi(um|an(s)?)"
+    ]
+  },
+  {
+    "_key": "countries/belize",
+    "_name": "Belize",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/central_america"
+    ],
+    "_attributes": {
+      "search": "Belize"
+    },
+    "_patterns": [
+      "Belize(an(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/benin",
+    "_name": "Benin",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/west_africa"
+    ],
+    "_attributes": {
+      "search": "Benin"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Benin(ese)?"
+    ]
+  },
+  {
+    "_key": "countries/bhutan",
+    "_name": "Bhutan",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/south_asia"
+    ],
+    "_attributes": {
+      "search": "Bhutan"
+    },
+    "_patterns": [
+      "(Kingdom\\s+of\\s+)?Bhutan(ese)?"
+    ]
+  },
+  {
+    "_key": "countries/bolivia",
+    "_name": "Bolivia",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/south_america"
+    ],
+    "_attributes": {
+      "search": "Bolivia"
+    },
+    "_patterns": [
+      "((Plurinational\\s+)?State\\s+of\\s+)?Bolivia(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/bosnia_and_herzegovina",
+    "_name": "Bosnia and Herzegovina",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/southern_europe"
+    ],
+    "_attributes": {
+      "search": "Bosnia and Herzegovina"
+    },
+    "_patterns": [
+      "Bosnia\\s+and\\s+Herzegovina"
+    ]
+  },
+  {
+    "_key": "countries/botswana",
+    "_name": "Botswana",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/southern_africa"
+    ],
+    "_attributes": {
+      "search": "Botswana"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Botswan(a|ese)"
+    ]
+  },
+  {
+    "_key": "countries/brazil",
+    "_name": "Brazil",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/south_america",
+    	"countries/economic_group/brics",
+		"countries/economic_group/next12"
+    ],
+    "_attributes": {
+      "search": "Brazil"
+    },
+    "_patterns": [
+      "((Federative\\s+)?Republic\\s+of\\s+)?Brazil(ian(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/brunei",
+    "_name": "Brunei",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/southeast_asia"
+    ],
+    "_attributes": {
+      "search": "Brunei"
+    },
+    "_patterns": [
+      "(State\\s+of\\s+)?Brunei(,\\s+Abode\\s+of\\s+Peace)?"
+    ]
+  },
+  {
+    "_key": "countries/bulgaria",
+    "_name": "Bulgaria",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/eastern_europe"
+    ],
+    "_attributes": {
+      "search": "Bulgaria"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Bulgaria(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/burkina_faso",
+    "_name": "Burkina Faso",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/west_africa"
+    ],
+    "_attributes": {
+      "search": "Burkina Faso"
+    },
+    "_patterns": [
+      "Burkina\\s+Faso"
+    ]
+  },
+  {
+    "_key": "countries/burma",
+    "_name": "Burma",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/southeast_asia"
+    ],
+    "_attributes": {
+      "search": "Burma"
+    },
+    "_patterns": [
+      "Burm(a|ese)",
+      "((Republic\\s+of\\s+the\\s+)?Union\\s+of\\s+)?Myanmar"
+    ]
+  },
+  {
+    "_key": "countries/burundi",
+    "_name": "Burundi",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/east_africa"
+    ],
+    "_attributes": {
+      "search": "Burundi"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Burundi"
+    ]
+  },
+  {
+    "_key": "countries/cambodia",
+    "_name": "Cambodia",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/southeast_asia"
+    ],
+    "_attributes": {
+      "search": "Cambodia"
+    },
+    "_patterns": [
+      "(Kingdom\\s+of\\s+)?Cambodia(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/cameroon",
+    "_name": "Cameroon",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/central_africa"
+    ],
+    "_attributes": {
+      "search": "Cameroon"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Cameroon(ian(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/canada",
+    "_name": "Canada",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/northern_america",
+    	"countries/economic_group/g8"
+    ],
+    "_attributes": {
+      "search": "Canada"
+    },
+    "_patterns": [
+      "Canad(a|ian(s)?)"
+    ]
+  },
+  {
+    "_key": "countries/canary_islands",
+    "_name": "Canary Islands",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/west_africa"
+    ],
+    "_attributes": {
+      "search": "Canary Islands"
+    },
+    "_patterns": [
+      "Canary\\s+Islands"
+    ]
+  },
+  {
+    "_key": "countries/cape_verde",
+    "_name": "Cape Verde",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/west_africa"
+    ],
+    "_attributes": {
+      "search": "Cape Verde"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Cape\\s+Verde"
+    ]
+  },
+  {
+    "_key": "countries/central_african_republic",
+    "_name": "Central African Republic",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/central_africa"
+    ],
+    "_attributes": {
+      "search": "Central African Republic"
+    },
+    "_patterns": [
+      "Central\\s+African\\s+Republic"
+    ]
+  },
+  {
+    "_key": "countries/chad",
+    "_name": "Chad",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/central_africa"
+    ],
+    "_attributes": {
+      "search": "Chad"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Chad(ian(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/chile",
+    "_name": "Chile",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/south_america"
+    ],
+    "_attributes": {
+      "search": "Chile"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Chile(an(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/china",
+    "_name": "China",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/east_asia",
+    	"countries/economic_group/brics",
+		"countries/economic_group/next12"
+    ],
+    "_attributes": {
+      "search": "China"
+    },
+    "_patterns": [
+      "(People's\\s+Republic\\s+of\\s+)?Chin(a|ese)"
+    ]
+  },
+  {
+    "_key": "countries/taiwan",
+    "_name": "Taiwan",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/east_asia"
+    ],
+    "_attributes": {
+      "search": "Taiwan"
+    },
+    "_patterns": [
+      "Taiwan(ese)?"
+    ]
+  },
+  {
+    "_key": "countries/colombia",
+    "_name": "Colombia",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/south_america"
+    ],
+    "_attributes": {
+      "search": "Colombia"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Colombia(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/comoros",
+    "_name": "Comoros",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/east_africa",
+    	"countries/un_region/asia/geopolitics/greater_middle_east"
+    ],
+    "_attributes": {
+      "search": "Comoros"
+    },
+    "_patterns": [
+      "(Union\\s+of\\s+the\\s+)?Comoros(ian(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/congo-kinshasa",
+    "_name": "Congo-Kinshasa",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/central_africa"
+    ],
+    "_attributes": {
+      "search": "Congo-Kinshasa"
+    },
+    "_patterns": [
+      "Congo-Kinshasa",
+      "Democratic\\s+Republic\\s+of\\s+the\\s+Congo"
+    ]
+  },
+  {
+    "_key": "countries/congo-brazzaville",
+    "_name": "Congo-Brazzaville",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/central_africa"
+    ],
+    "_attributes": {
+      "search": "Congo-Brazzaville"
+    },
+    "_patterns": [
+      "Congo-Brazzaville",
+      "(?<!Democratic(\\s{1,3}))Republic\\s+of\\s+the\\s+Congo"
+    ]
+  },
+  {
+    "_key": "countries/cook_islands",
+    "_name": "Cook Islands",
+    "_groupKeys": [
+    	"countries/un_region/oceania/un_subregion/polynesia"
+    ],
+    "_attributes": {
+      "search": "Cook Islands"
+    },
+    "_patterns": [
+      "Cook\\s+Islands"
+    ]
+  },
+  {
+    "_key": "countries/costa_rica",
+    "_name": "Costa Rica",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/caribbean",
+    	"countries/un_region/americas/un_subregion/central_america"
+    ],
+    "_attributes": {
+      "search": "Costa Rica"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Costa\\s+Rica(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/ivory_coast",
+    "_name": "Ivory Coast",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/west_africa"
+    ],
+    "_attributes": {
+      "search": "Ivory Coast"
+    },
+    "_patterns": [
+      "Ivory\\s+Coast",
+      "(Republic\\s+of\\s+)?C‚Äö√Ñ√∂‚àö‚Ä†‚àö‚àÇ¬¨¬®‚Äö√Ñ¬¢te\\s+d'Ivoire"
+    ]
+  },
+  {
+    "_key": "countries/croatia",
+    "_name": "Croatia",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/southern_europe"
+    ],
+    "_attributes": {
+      "search": "Croatia"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Croatia(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/cuba",
+    "_name": "Cuba",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/caribbean"
+    ],
+    "_attributes": {
+      "search": "Cuba"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Cuba(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/cyprus",
+    "_name": "Cyprus",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/western_asia",
+    	"countries/un_region/asia/geopolitics/middle_east"
+    ],
+    "_attributes": {
+      "search": "Cyprus"
+    },
+    "_patterns": [
+      "(?<!Northern(\\s{1,3}))(Republic\\s+of\\s+)?Cyprus"
+    ]
+  },
+  {
+    "_key": "countries/czech_republic",
+    "_name": "Czech Republic",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/eastern_europe",
+    	"countries/un_region/europe/other_groupings/central_europe",
+    	"countries/un_region/europe/other_groupings/visegrad_group"
+    ],
+    "_attributes": {
+      "search": "Czech Republic"
+    },
+    "_patterns": [
+      "Czech(s|\\s+Republic)?"
+    ]
+  },
+  {
+    "_key": "countries/north_korea",
+    "_name": "North Korea",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/east_asia"
+    ],
+    "_attributes": {
+      "search": "North Korea"
+    },
+    "_patterns": [
+      "N(\\s+)?Korea(n(s)?)?",
+      "North\\s+Korea(n(s)?)?",
+      "Democratic\\s+People's\\s+Republic\\s+of\\s+Korea"
+    ]
+  },
+  {
+    "_key": "countries/south_korea",
+    "_name": "South Korea",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/east_asia",
+		"countries/economic_group/next12"
+    ],
+    "_attributes": {
+      "search": "South Korea"
+    },
+    "_patterns": [
+      "S(\\s+)?Korea(n(s)?)?",
+      "South\\s+Korea(n(s)?)?",
+      "(?<!(Democratic|People's)(\\s{1,3}))Republic\\s+of\\s+Korea"
+    ]
+  },
+  {
+    "_key": "countries/denmark",
+    "_name": "Denmark",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/northern_europe",
+    	"countries/un_region/europe/other_groupings/nordic_countries"
+    ],
+    "_attributes": {
+      "search": "Denmark"
+    },
+    "_patterns": [
+      "Danish",
+      "(Kingdom\\s+of\\s+)?Denmark"
+    ]
+  },
+  {
+    "_key": "countries/djibouti",
+    "_name": "Djibouti",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/east_africa",
+    	"countries/un_region/asia/geopolitics/greater_middle_east"
+    ],
+    "_attributes": {
+      "search": "Djibouti"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Djibouti(an(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/dominica",
+    "_name": "Dominica",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/caribbean"
+    ],
+    "_attributes": {
+      "search": "Dominica"
+    },
+    "_patterns": [
+      "(Commonwealth\\s+of\\s+)?Dominica"
+    ]
+  },
+  {
+    "_key": "countries/dominican_republic",
+    "_name": "Dominican Republic",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/caribbean"
+    ],
+    "_attributes": {
+      "search": "Dominican Republic"
+    },
+    "_patterns": [
+      "Dominican(s|\\s+Republic)"
+    ]
+  },
+  {
+    "_key": "countries/timor-leste",
+    "_name": "Timor-Leste",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/southeast_asia"
+    ],
+    "_attributes": {
+      "search": "Timor-Leste"
+    },
+    "_patterns": [
+      "East\\s+Timor",
+      "(Democratic\\s+Republic\\s+of\\s+)?Timor-Leste"
+    ]
+  },
+  {
+    "_key": "countries/ecuador",
+    "_name": "Ecuador",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/south_america"
+    ],
+    "_attributes": {
+      "search": "Ecuador"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Ecuador(ian(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/egypt",
+    "_name": "Egypt",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/north_africa",
+    	"countries/un_region/asia/geopolitics/middle_east"
+    ],
+    "_attributes": {
+      "search": "Egypt"
+    },
+    "_patterns": [
+      "((Arab\\s+)?Republic\\s+of\\s+)?Egypt(ian(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/el_salvador",
+    "_name": "El Salvador",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/central_america"
+    ],
+    "_attributes": {
+      "search": "El Salvador"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?El\\s+Salvador(ian(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/equatorial_guinea",
+    "_name": "Equatorial Guinea",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/central_africa"
+    ],
+    "_attributes": {
+      "search": "Equatorial Guinea"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Equatorial\\s+Guinea"
+    ]
+  },
+  {
+    "_key": "countries/eritrea",
+    "_name": "Eritrea",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/east_africa"
+    ],
+    "_attributes": {
+      "search": "Eritrea"
+    },
+    "_patterns": [
+      "(State\\s+of\\s+)?Eritrea(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/estonia",
+    "_name": "Estonia",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/northern_europe",
+    	"countries/un_region/europe/other_groupings/baltic_states"
+    ],
+    "_attributes": {
+      "search": "Estonia"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Estonia(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/ethiopia",
+    "_name": "Ethiopia",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/east_africa"
+    ],
+    "_attributes": {
+      "search": "Ethiopia"
+    },
+    "_patterns": [
+      "(((Federal\\s+)?Democratic\\s+)?Republic\\s+of\\s+)?Ethiopia(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/fiji",
+    "_name": "Fiji",
+    "_groupKeys": [
+    	"countries/un_region/oceania/un_subregion/melanesia"
+    ],
+    "_attributes": {
+      "search": "Fiji"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Fiji(an(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/finland",
+    "_name": "Finland",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/northern_europe",
+    	"countries/un_region/europe/other_groupings/nordic_countries"
+    ],
+    "_attributes": {
+      "search": "Finland"
+    },
+    "_patterns": [
+      "Finn(ish|s)?",
+      "(Republic\\s+of\\s+)?Finland"
+    ]
+  },
+  {
+    "_key": "countries/france",
+    "_name": "France",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/western_europe",
+    	"countries/economic_group/g8"
+    ],
+    "_attributes": {
+      "search": "France"
+    },
+    "_patterns": [
+      "France",
+      "French(\\s+Republic|\\s+citizen(s)?)"
+    ]
+  },
+  {
+    "_key": "countries/gabon",
+    "_name": "Gabon",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/central_africa"
+    ],
+    "_attributes": {
+      "search": "Gabon"
+    },
+    "_patterns": [
+      "Gabon(ese(\\s+Republic)?)?"
+    ]
+  },
+  {
+    "_key": "countries/gambia",
+    "_name": "Gambia",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/west_africa"
+    ],
+    "_attributes": {
+      "search": "Gambia"
+    },
+    "_patterns": [
+      "((Republic\\s+of\\s+)?The\\s+)?Gambia(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/georgia",
+    "_name": "Georgia",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/western_asia",
+    	"countries/un_region/asia/geopolitics/greater_middle_east",
+    	"countries/un_region/europe/other_groupings/caucasus"
+    ],
+    "_attributes": {
+      "search": "Georgia"
+    },
+    "_patterns": [
+      "Georgia"
+    ]
+  },
+  {
+    "_key": "countries/adjara",
+    "_name": "Adjara (Georgia)",
+    "_groupKeys": [
+    	"countries/un_region/europe/other_groupings/caucasus"
+    ],
+    "_attributes": {
+      "search": "Adjara"
+    },
+    "_patterns": [
+      "Adjara"
+    ]
+  },
+  {
+    "_key": "countries/germany",
+    "_name": "Germany",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/western_europe",
+    	"countries/un_region/europe/other_groupings/central_europe",
+    	"countries/economic_group/g8"
+    ],
+    "_attributes": {
+      "search": "Germany"
+    },
+    "_patterns": [
+      "(Federal\\s+Republic\\s+of\\s+)?German(y|s)?"
+    ]
+  },
+  {
+    "_key": "countries/ghana",
+    "_name": "Ghana",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/west_africa"
+    ],
+    "_attributes": {
+      "search": "Ghana"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Ghan(a|aian|ese)"
+    ]
+  },
+  {
+    "_key": "countries/greece",
+    "_name": "Greece",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/southern_europe"
+    ],
+    "_attributes": {
+      "search": "Greece"
+    },
+    "_patterns": [
+      "Gree(ce|k(s)?)",
+      "Hellenic\\s+Republic"
+    ]
+  },
+  {
+    "_key": "countries/greenland",
+    "_name": "Greenland",
+    "_groupKeys": [
+    	"countries/un_region/europe/other_groupings/nordic_countries"
+    ],
+    "_attributes": {
+      "search": "Greenland"
+    },
+    "_patterns": [
+      "Greenland"
+    ]
+  },
+  {
+    "_key": "countries/grenada",
+    "_name": "Grenada",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/caribbean"
+    ],
+    "_attributes": {
+      "search": "Grenada"
+    },
+    "_patterns": [
+      "Grenada"
+    ]
+  },
+  {
+    "_key": "countries/guatemala",
+    "_name": "Guatemala",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/caribbean",
+    	"countries/un_region/americas/un_subregion/central_america"
+    ],
+    "_attributes": {
+      "search": "Guatemala"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Guatemala(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/guinea",
+    "_name": "Guinea",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/west_africa"
+    ],
+    "_attributes": {
+      "search": "Guinea"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Guinea(?!-Bissau)"
+    ]
+  },
+  {
+    "_key": "countries/guinea-bissau",
+    "_name": "Guinea-Bissau",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/west_africa"
+    ],
+    "_attributes": {
+      "search": "Guinea-Bissau"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Guinea-Bissau"
+    ]
+  },
+  {
+    "_key": "countries/guyana",
+    "_name": "Guyana",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/caribbean",
+    	"countries/un_region/americas/un_subregion/south_america"
+    ],
+    "_attributes": {
+      "search": "Guyana"
+    },
+    "_patterns": [
+      "((Co-operative\\s+)?Republic\\s+of\\s+)?Guyana"
+    ]
+  },
+  {
+    "_key": "countries/haiti",
+    "_name": "Haiti",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/caribbean"
+    ],
+    "_attributes": {
+      "search": "Haiti"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Haiti(an(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/vatican",
+    "_name": "Vatican",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/southern_europe"
+    ],
+    "_attributes": {
+      "search": "Vatican"
+    },
+    "_patterns": [
+      "Vatican(\\s+City)?(\\s+State)?",
+      "Holy\\s+See"
+    ]
+  },
+  {
+    "_key": "countries/honduras",
+    "_name": "Honduras",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/caribbean",
+    	"countries/un_region/americas/un_subregion/central_america"
+    ],
+    "_attributes": {
+      "search": "Honduras"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Hondura(n)?s"
+    ]
+  },
+  {
+    "_key": "countries/hong_kong",
+    "_name": "Hong Kong",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/east_asia"
+    ],
+    "_attributes": {
+      "search": "Hong Kong"
+    },
+    "_patterns": [
+      "Hong\\s+Kong"
+    ]
+  },
+  {
+    "_key": "countries/hungary",
+    "_name": "Hungary",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/eastern_europe",
+    	"countries/un_region/europe/other_groupings/central_europe",
+    	"countries/un_region/europe/other_groupings/visegrad_group"
+    ],
+    "_attributes": {
+      "search": "Hungary"
+    },
+    "_patterns": [
+      "Hungar(y|ian(s)?)"
+    ]
+  },
+  {
+    "_key": "countries/iceland",
+    "_name": "Iceland",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/northern_europe",
+    	"countries/un_region/europe/other_groupings/nordic_countries"
+    ],
+    "_attributes": {
+      "search": "Iceland"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Iceland(ic|er(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/india",
+    "_name": "India",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/south_asia",
+    	"countries/economic_group/brics",
+		"countries/economic_group/next12"
+    ],
+    "_attributes": {
+      "search": "India"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?India(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/indonesia",
+    "_name": "Indonesia",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/southeast_asia",
+		"countries/economic_group/next12"
+    ],
+    "_attributes": {
+      "search": "Indonesia"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Indonesia(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/iran",
+    "_name": "Iran",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/western_asia",
+    	"countries/un_region/asia/geopolitics/middle_east"
+    ],
+    "_attributes": {
+      "search": "Iran"
+    },
+    "_patterns": [
+      "((Islamic\\s+)?Republic\\s+of\\s+)?Iran(ian(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/iraq",
+    "_name": "Iraq",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/western_asia",
+    	"countries/un_region/asia/geopolitics/middle_east"
+    ],
+    "_attributes": {
+      "search": "Iraq"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Iraq(i(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/ireland",
+    "_name": "Ireland",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/northern_europe"
+    ],
+    "_attributes": {
+      "search": "Ireland"
+    },
+    "_patterns": [
+      "(?<!Northern(\\s{1,3}))(Republic\\s+of\\s+)?Ireland(er(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/israel",
+    "_name": "Israel",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/western_asia",
+    	"countries/un_region/asia/geopolitics/middle_east"
+    ],
+    "_attributes": {
+      "search": "Israel"
+    },
+    "_patterns": [
+      "(State\\s+of\\s+)?Israel(i(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/italy",
+    "_name": "Italy",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/southern_europe",
+    	"countries/economic_group/g8"
+    ],
+    "_attributes": {
+      "search": "Italy"
+    },
+    "_patterns": [
+      "Ital(y|ian(s)?)(\\s+Republic)?"
+    ]
+  },
+  {
+    "_key": "countries/jamaica",
+    "_name": "Jamaica",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/caribbean"
+    ],
+    "_attributes": {
+      "search": "Jamaica"
+    },
+    "_patterns": [
+      "Jamaica(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/japan",
+    "_name": "Japan",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/east_asia",
+    	"countries/economic_group/g8"
+    ],
+    "_attributes": {
+      "search": "Japan"
+    },
+    "_patterns": [
+      "Japan(ese)?"
+    ]
+  },
+  {
+    "_key": "countries/jordan",
+    "_name": "Jordan",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/western_asia",
+    	"countries/un_region/asia/geopolitics/middle_east"
+    ],
+    "_attributes": {
+      "search": "Jordan"
+    },
+    "_patterns": [
+      "((Hashemite\\s+)?Kingdom\\s+of\\s+)?Jordan(ian(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/kazakhstan",
+    "_name": "Kazakhstan",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/central_asia",
+    	"countries/un_region/asia/geopolitics/greater_middle_east"
+    ],
+    "_attributes": {
+      "search": "Kazakhstan"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Kazakhstan(i(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/kenya",
+    "_name": "Kenya",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/east_africa"
+    ],
+    "_attributes": {
+      "search": "Kenya"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Kenya(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/kiribati",
+    "_name": "Kiribati",
+    "_groupKeys": [
+    	"countries/un_region/oceania/un_subregion/micronesia"
+    ],
+    "_attributes": {
+      "search": "Kiribati"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Kiribati"
+    ]
+  },
+  {
+    "_key": "countries/kosovo",
+    "_name": "Kosovo",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/southern_europe"
+    ],
+    "_attributes": {
+      "search": "Kosovo"
+    },
+    "_patterns": [
+      "Kosov(o|ak(s)?)"
+    ]
+  },
+  {
+    "_key": "countries/kuwait",
+    "_name": "Kuwait",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/western_asia",
+    	"countries/un_region/asia/geopolitics/middle_east"
+    ],
+    "_attributes": {
+      "search": "Kuwait"
+    },
+    "_patterns": [
+      "(State\\s+of\\s+)?Kuwait(i(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/kyrgyzstan",
+    "_name": "Kyrgyzstan",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/central_asia",
+    	"countries/un_region/asia/geopolitics/greater_middle_east"
+    ],
+    "_attributes": {
+      "search": "Kyrgyzstan"
+    },
+    "_patterns": [
+      "Kyrgyzstan(i(s)?)?",
+      "Kyrgyz\\s+Republic"
+    ]
+  },
+  {
+    "_key": "countries/laos",
+    "_name": "Laos",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/southeast_asia"
+    ],
+    "_attributes": {
+      "search": "Laos"
+    },
+    "_patterns": [
+      "Lao(s|tian(s)?)",
+      "Lao\\s+People's\\s+Democratic\\s+Republic"
+    ]
+  },
+  {
+    "_key": "countries/latvia",
+    "_name": "Latvia",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/northern_europe",
+    	"countries/un_region/europe/other_groupings/baltic_states"
+    ],
+    "_attributes": {
+      "search": "Latvia"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Latvia(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/lebanon",
+    "_name": "Lebanon",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/western_asia",
+    	"countries/un_region/asia/geopolitics/middle_east"
+    ],
+    "_attributes": {
+      "search": "Lebanon"
+    },
+    "_patterns": [
+      "Leban(on|ese)(\\s+Republic)?"
+    ]
+  },
+  {
+    "_key": "countries/lesotho",
+    "_name": "Lesotho",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/southern_africa"
+    ],
+    "_attributes": {
+      "search": "Lesotho"
+    },
+    "_patterns": [
+      "(Kingdon\\s+of\\s+)?Lesotho"
+    ]
+  },
+  {
+    "_key": "countries/liberia",
+    "_name": "Liberia",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/west_africa"
+    ],
+    "_attributes": {
+      "search": "Liberia"
+    },
+    "_patterns": [
+      "(Kingdom\\s+of\\s+)?Liberia(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/libya",
+    "_name": "Libya",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/north_africa",
+    	"countries/un_region/asia/geopolitics/greater_middle_east"
+    ],
+    "_attributes": {
+      "search": "Libya"
+    },
+    "_patterns": [
+      "Libya(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/liechtenstein",
+    "_name": "Liechtenstein",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/western_europe",
+    	"countries/un_region/europe/other_groupings/central_europe"
+    ],
+    "_attributes": {
+      "search": "Liechtenstein"
+    },
+    "_patterns": [
+      "(Principality\\s+of\\s+)?Liechtenstein"
+    ]
+  },
+  {
+    "_key": "countries/lithuania",
+    "_name": "Lithuania",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/northern_europe",
+    	"countries/un_region/europe/other_groupings/baltic_states"
+    ],
+    "_attributes": {
+      "search": "Lithuania"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Lithuania(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/luxembourg",
+    "_name": "Luxembourg",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/western_europe",
+    	"countries/un_region/europe/other_groupings/benelux"
+    ],
+    "_attributes": {
+      "search": "Luxembourg"
+    },
+    "_patterns": [
+      "(Grand\\s+Duchy\\s+of\\s+)?Luxembourg"
+    ]
+  },
+  {
+    "_key": "countries/macau",
+    "_name": "Macau",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/east_asia"
+    ],
+    "_attributes": {
+      "search": "Macau"
+    },
+    "_patterns": [
+      "Macau"
+    ]
+  },
+  {
+    "_key": "countries/macedonia",
+    "_name": "Macedonia",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/southern_europe"
+    ],
+    "_attributes": {
+      "search": "Macedonia"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Macedonia(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/madagascar",
+    "_name": "Madagascar",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/east_africa"
+    ],
+    "_attributes": {
+      "search": "Madagascar"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Madagascar"
+    ]
+  },
+  {
+    "_key": "countries/malawi",
+    "_name": "Malawi",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/east_africa"
+    ],
+    "_attributes": {
+      "search": "Malawi"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Malawi(s)?"
+    ]
+  },
+  {
+    "_key": "countries/malaysia",
+    "_name": "Malaysia",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/southeast_asia"
+    ],
+    "_attributes": {
+      "search": "Malaysia"
+    },
+    "_patterns": [
+      "Malaysia(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/maldives",
+    "_name": "Maldives",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/south_asia"
+    ],
+    "_attributes": {
+      "search": "Maldives"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Maldives"
+    ]
+  },
+  {
+    "_key": "countries/mali",
+    "_name": "Mali",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/west_africa"
+    ],
+    "_attributes": {
+      "search": "Mali"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Mali(an(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/malta",
+    "_name": "Malta",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/southern_europe"
+    ],
+    "_attributes": {
+      "search": "Malta"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Malt(a|ese)"
+    ]
+  },
+  {
+    "_key": "countries/marshall_islands",
+    "_name": "Marshall Islands",
+    "_groupKeys": [
+    	"countries/un_region/oceania/un_subregion/micronesia"
+    ],
+    "_attributes": {
+      "search": "Marshall Islands"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+((T|t)he\\s+)?)?Marshall\\s+Islands"
+    ]
+  },
+  {
+    "_key": "countries/mauritania",
+    "_name": "Mauritania",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/west_africa",
+    	"countries/un_region/asia/geopolitics/greater_middle_east"
+    ],
+    "_attributes": {
+      "search": "Mauritania"
+    },
+    "_patterns": [
+      "((Islamic\\s+)?Republic\\s+of\\s+)?Mauritania(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/mauritius",
+    "_name": "Mauritius",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/east_africa"
+    ],
+    "_attributes": {
+      "search": "Mauritius"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Mauritius"
+    ]
+  },
+  {
+    "_key": "countries/mayotte",
+    "_name": "Mayotte",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/east_africa"
+    ],
+    "_attributes": {
+      "search": "Mayotte"
+    },
+    "_patterns": [
+      "Mayotte"
+    ]
+  },
+  {
+    "_key": "countries/mexico",
+    "_name": "Mexico",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/central_america",
+		"countries/economic_group/next12"
+    ],
+    "_attributes": {
+      "search": "Mexico"
+    },
+    "_patterns": [
+      "Mexico",
+      "(United\\s+)?Mexican(s)?(\\s+States)?"
+    ]
+  },
+  {
+    "_key": "countries/micronesia",
+    "_name": "Micronesia",
+    "_groupKeys": [
+    	"countries/un_region/oceania/un_subregion/micronesia"
+    ],
+    "_attributes": {
+      "search": "Micronesia"
+    },
+    "_patterns": [
+      "(Federated\\s+States\\s+of\\s+)?Micronesia(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/moldova",
+    "_name": "Moldova",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/eastern_europe"
+    ],
+    "_attributes": {
+      "search": "Moldova"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Moldova(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/monaco",
+    "_name": "Monaco",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/western_europe"
+    ],
+    "_attributes": {
+      "search": "Monaco"
+    },
+    "_patterns": [
+      "(Principality\\s+of\\s+)?Monac(o|an(s)?)"
+    ]
+  },
+  {
+    "_key": "countries/mongolia",
+    "_name": "Mongolia",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/east_asia"
+    ],
+    "_attributes": {
+      "search": "Mongolia"
+    },
+    "_patterns": [
+      "Mongolia(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/montenegro",
+    "_name": "Montenegro",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/southern_europe"
+    ],
+    "_attributes": {
+      "search": "Montenegro"
+    },
+    "_patterns": [
+      "Montenegr(o|in(s)?)"
+    ]
+  },
+  {
+    "_key": "countries/morocco",
+    "_name": "Morocco",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/north_africa",
+    	"countries/un_region/asia/geopolitics/greater_middle_east"
+    ],
+    "_attributes": {
+      "search": "Morocco"
+    },
+    "_patterns": [
+      "(Kingdom\\s+of\\s+)?Morocc(o|an(s)?)"
+    ]
+  },
+  {
+    "_key": "countries/mozambique",
+    "_name": "Mozambique",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/east_africa"
+    ],
+    "_attributes": {
+      "search": "Mozambique"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Mozambique"
+    ]
+  },
+  {
+    "_key": "countries/namibia",
+    "_name": "Namibia",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/southern_africa"
+    ],
+    "_attributes": {
+      "search": "Namibia"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Namibia(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/nauru",
+    "_name": "Nauru",
+    "_groupKeys": [
+    	"countries/un_region/oceania/un_subregion/micronesia"
+    ],
+    "_attributes": {
+      "search": "Nauru"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Nauru"
+    ]
+  },
+  {
+    "_key": "countries/nepal",
+    "_name": "Nepal",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/south_asia"
+    ],
+    "_attributes": {
+      "search": "Nepal"
+    },
+    "_patterns": [
+      "((Federal\\s+Democratic\\s+)?Republic\\s+of\\s+)?Nepal(i(s)?|ese)?"
+    ]
+  },
+  {
+    "_key": "countries/netherlands",
+    "_name": "Netherlands",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/western_europe",
+    	"countries/un_region/europe/other_groupings/benelux"
+    ],
+    "_attributes": {
+      "search": "Netherlands"
+    },
+    "_patterns": [
+      "Dutch",
+      "Holland",
+      "(Kingdom\\s+of\\s+(T|t)he\\s+)?Netherland(er(s)?|s)"
+    ]
+  },
+  {
+    "_key": "countries/new_zealand",
+    "_name": "New Zealand",
+    "_groupKeys": [
+    	"countries/un_region/oceania/un_subregion/aus_and_nz"
+    ],
+    "_attributes": {
+      "search": "New Zealand"
+    },
+    "_patterns": [
+      "New\\s+Zealand(er(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/nicaragua",
+    "_name": "Nicaragua",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/caribbean",
+    	"countries/un_region/americas/un_subregion/central_america"
+    ],
+    "_attributes": {
+      "search": "Nicaragua"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Nicaragua(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/niger",
+    "_name": "Niger",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/west_africa"
+    ],
+    "_attributes": {
+      "search": "Niger"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Niger(oise)?"
+    ]
+  },
+  {
+    "_key": "countries/nigeria",
+    "_name": "Nigeria",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/west_africa"
+    ],
+    "_attributes": {
+      "search": "Nigeria"
+    },
+    "_patterns": [
+      "((Federal\\s+)?Republic\\s+of\\s+)?Nigeria(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/niue",
+    "_name": "Niue",
+    "_groupKeys": [
+    	"countries/un_region/oceania/un_subregion/polynesia"
+    ],
+    "_attributes": {
+      "search": "Niue"
+    },
+    "_patterns": [
+      "Niue"
+    ]
+  },
+  {
+    "_key": "countries/northern_cyprus",
+    "_name": "Northern Cyprus",
+    "_groupKeys": [
+    	"countries/un_region/asia/geopolitics/middle_east"
+    ],
+    "_attributes": {
+      "search": "Northern Cyprus"
+    },
+    "_patterns": [
+      "Northern\\s+Cyprus"
+    ]
+  },
+  {
+    "_key": "countries/norway",
+    "_name": "Norway",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/northern_europe",
+    	"countries/un_region/europe/other_groupings/nordic_countries"
+    ],
+    "_attributes": {
+      "search": "Norway"
+    },
+    "_patterns": [
+      "(Kingdom\\s+of\\s+)?Norw(ay|egian(s)?)"
+    ]
+  },
+  {
+    "_key": "countries/oman",
+    "_name": "Oman",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/western_asia",
+    	"countries/un_region/asia/geopolitics/middle_east"
+    ],
+    "_attributes": {
+      "search": "Oman"
+    },
+    "_patterns": [
+      "(Sultanate\\s+of\\s+)?Oman(i(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/pakistan",
+    "_name": "Pakistan",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/south_asia",
+    	"countries/un_region/asia/geopolitics/greater_middle_east"
+    ],
+    "_attributes": {
+      "search": "Pakistan"
+    },
+    "_patterns": [
+      "((Islamic\\s+)?Republic\\s+of\\s+)?Pakistan(i(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/palau",
+    "_name": "Palau",
+    "_groupKeys": [
+    	"countries/un_region/oceania/un_subregion/micronesia"
+    ],
+    "_attributes": {
+      "search": "Palau"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Palau"
+    ]
+  },
+  {
+    "_key": "countries/palestine",
+    "_name": "Palestine",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/western_asia",
+    	"countries/un_region/asia/geopolitics/middle_east"
+    ],
+    "_attributes": {
+      "search": "Palestine"
+    },
+    "_patterns": [
+      "Palestin(e|ian(s)?)"
+    ]
+  },
+  {
+    "_key": "countries/panama",
+    "_name": "Panama",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/caribbean",
+    	"countries/un_region/americas/un_subregion/central_america"
+    ],
+    "_attributes": {
+      "search": "Panama"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Panama(nian(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/papua_new_guinea",
+    "_name": "Papua New Guinea",
+    "_groupKeys": [
+    	"countries/un_region/oceania/un_subregion/melanesia"
+    ],
+    "_attributes": {
+      "search": "Papua New Guinea"
+    },
+    "_patterns": [
+      "((Independent\\s+)?State\\s+of\\s+)?Papua\\s+New\\s+Guinea"
+    ]
+  },
+  {
+    "_key": "countries/paraguay",
+    "_name": "Paraguay",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/south_america"
+    ],
+    "_attributes": {
+      "search": "Paraguay"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Paraguay(an(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/peru",
+    "_name": "Peru",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/south_america"
+    ],
+    "_attributes": {
+      "search": "Peru"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Peru(vian(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/philippines",
+    "_name": "Philippines",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/southeast_asia"
+    ],
+    "_attributes": {
+      "search": "Philippines"
+    },
+    "_patterns": [
+      "Filipino(s)?",
+      "(Republic\\s+of\\s+((T|t)he\\s+)?)?Philippines"
+    ]
+  },
+  {
+    "_key": "countries/poland",
+    "_name": "Poland",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/eastern_europe",
+    	"countries/un_region/europe/other_groupings/central_europe",
+    	"countries/un_region/europe/other_groupings/visegrad_group"
+    ],
+    "_attributes": {
+      "search": "Poland"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Pol(and|ish)"
+    ]
+  },
+  {
+    "_key": "countries/portugal",
+    "_name": "Portugal",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/southern_europe"
+    ],
+    "_attributes": {
+      "search": "Portugal"
+    },
+    "_patterns": [
+      "Portug(al|uese)(\\s+Republic)?"
+    ]
+  },
+  {
+    "_key": "countries/transnistria",
+    "_name": "Transnistria",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/eastern_europe"
+    ],
+    "_attributes": {
+      "search": "Transnistria"
+    },
+    "_patterns": [
+      "Pridnestrovi(e|an(s)?)",
+      "Transnistria(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/qatar",
+    "_name": "Qatar",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/western_asia",
+    	"countries/un_region/asia/geopolitics/middle_east"
+    ],
+    "_attributes": {
+      "search": "Qatar"
+    },
+    "_patterns": [
+      "(State\\s+of\\s+)?Qatar(i(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/reunion",
+    "_name": "Reunion",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/east_africa"
+    ],
+    "_attributes": {
+      "search": "Reunion"
+    },
+    "_patterns": [
+      "Reunion"
+    ]
+  },
+  {
+    "_key": "countries/romania",
+    "_name": "Romania",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/eastern_europe"
+    ],
+    "_attributes": {
+      "search": "Romania"
+    },
+    "_patterns": [
+      "Romania(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/russia",
+    "_name": "Russia",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/eastern_europe",
+		"countries/economic_group/g8",
+		"countries/economic_group/brics"
+    ],
+    "_attributes": {
+      "search": "Russia"
+    },
+    "_patterns": [
+      "Russia(n(s)?)?(\\s+Federation)?"
+    ]
+  },
+  {
+    "_key": "countries/rwanda",
+    "_name": "Rwanda",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/east_africa"
+    ],
+    "_attributes": {
+      "search": "Rwanda"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Rwand(a|ese)"
+    ]
+  },
+  {
+    "_key": "countries/western_sahara",
+    "_name": "Western Sahara",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/north_africa",
+    	"countries/un_region/asia/geopolitics/greater_middle_east"
+    ],
+    "_attributes": {
+      "search": "Western Sahara"
+    },
+    "_patterns": [
+      "Western\\s+Sahara"
+    ]
+  },
+  {
+    "_key": "countries/sahrawi_arab_democratic_republic",
+    "_name": "Sahrawi Arab Democratic Republic",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/north_africa",
+    	"countries/un_region/asia/geopolitics/greater_middle_east"
+    ],
+    "_attributes": {
+      "search": "Sahrawi Arab Democratic Republic"
+    },
+    "_patterns": [
+      "Sahrawi(s)?(\\s+Arab\\s+Democratic\\s+Republic)?"
+    ]
+  },
+  {
+    "_key": "countries/saint_kitts_and_nevis",
+    "_name": "Saint Kitts and Nevis",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/caribbean"
+    ],
+    "_attributes": {
+      "search": "Saint Kitts and Nevis"
+    },
+    "_patterns": [
+      "(Federation\\s+of\\s+)?Saint\\s+Kitts\\s+and\\s+Nevis"
+    ]
+  },
+  {
+    "_key": "countries/saint_lucia",
+    "_name": "Saint Lucia",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/caribbean"
+    ],
+    "_attributes": {
+      "search": "Saint Lucia"
+    },
+    "_patterns": [
+      "Saint\\s+Lucia(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/saint_vincent_and_the_grenadines",
+    "_name": "Saint Vincent and the Grenadines",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/caribbean"
+    ],
+    "_attributes": {
+      "search": "Saint Vincent and the Grenadines"
+    },
+    "_patterns": [
+      "Saint\\s+Vincent\\s+and\\s+the\\s+Grenadines"
+    ]
+  },
+  {
+    "_key": "countries/samoa",
+    "_name": "Samoa",
+    "_groupKeys": [
+    	"countries/un_region/oceania/un_subregion/polynesia"
+    ],
+    "_attributes": {
+      "search": "Samoa"
+    },
+    "_patterns": [
+      "((Independent\\s+)?State\\s+of\\s+)?Samoa(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/san_marino",
+    "_name": "San Marino",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/southern_europe"
+    ],
+    "_attributes": {
+      "search": "San Marino"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?San\\s+Marin(o|ese)"
+    ]
+  },
+  {
+    "_key": "countries/sao_tome_and_principe",
+    "_name": "Sao Tome and Principe",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/central_africa"
+    ],
+    "_attributes": {
+      "search": "Sao Tome and Principe"
+    },
+    "_patterns": [
+      "((Democratic\\s+)?Republic\\s+of\\s+)?S(a)o\\s+Tom(e)\\s+and\\s+Pr(i)ncipe"
+    ]
+  },
+  {
+    "_key": "countries/saudi_arabia",
+    "_name": "Saudi Arabia",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/western_asia",
+    	"countries/un_region/asia/geopolitics/middle_east",
+		"countries/economic_group/next12"
+    ],
+    "_attributes": {
+      "search": "Saudi Arabia"
+    },
+    "_patterns": [
+      "(Kingdom\\s+of\\s+)?Saudi\\s+Arabia(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/senegal",
+    "_name": "Senegal",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/west_africa"
+    ],
+    "_attributes": {
+      "search": "Senegal"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Senegal(ese)?"
+    ]
+  },
+  {
+    "_key": "countries/serbia",
+    "_name": "Serbia",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/southern_europe"
+    ],
+    "_attributes": {
+      "search": "Serbia"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Serbia(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/seychelles",
+    "_name": "Seychelles",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/east_africa"
+    ],
+    "_attributes": {
+      "search": "Seychelles"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Seychelles"
+    ]
+  },
+  {
+    "_key": "countries/sierra_leone",
+    "_name": "Sierra Leone",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/west_africa"
+    ],
+    "_attributes": {
+      "search": "Sierra Leone"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Sierra\\s+Leone(ans)?"
+    ]
+  },
+  {
+    "_key": "countries/singapore",
+    "_name": "Singapore",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/southeast_asia"
+    ],
+    "_attributes": {
+      "search": "Singapore"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Singapore(an(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/slovakia",
+    "_name": "Slovakia",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/eastern_europe",
+    	"countries/un_region/europe/other_groupings/central_europe",
+    	"countries/un_region/europe/other_groupings/visegrad_group"
+    ],
+    "_attributes": {
+      "search": "Slovakia"
+    },
+    "_patterns": [
+      "Slovak(ia|s)?(\\s+Republic)?"
+    ]
+  },
+  {
+    "_key": "countries/slovenia",
+    "_name": "Slovenia",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/southern_europe",
+    	"countries/un_region/europe/other_groupings/central_europe"
+    ],
+    "_attributes": {
+      "search": "Slovenia"
+    },
+    "_patterns": [
+      "Slovenes",
+      "(Republic\\s+of\\s+)?Slovenia(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/solomon_islands",
+    "_name": "Solomon Islands",
+    "_groupKeys": [
+    	"countries/un_region/oceania/un_subregion/melanesia"
+    ],
+    "_attributes": {
+      "search": "Solomon Islands"
+    },
+    "_patterns": [
+      "Solomon\\s+Island(er(s)?|s)"
+    ]
+  },
+  {
+    "_key": "countries/somalia",
+    "_name": "Somalia",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/east_africa",
+    	"countries/un_region/asia/geopolitics/greater_middle_east"
+    ],
+    "_attributes": {
+      "search": "Somalia"
+    },
+    "_patterns": [
+      "((Federal\\s+)?Republic\\s+of\\s+)?Somali(s|a(n)?(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/somaliland",
+    "_name": "Somaliland",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/east_africa",
+    	"countries/un_region/asia/geopolitics/greater_middle_east"
+    ],
+    "_attributes": {
+      "search": "Somaliland"
+    },
+    "_patterns": [
+      "Somaliland"
+    ]
+  },
+  {
+    "_key": "countries/south_africa",
+    "_name": "South Africa",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/southern_africa",
+    	"countries/economic_group/brics",
+		"countries/economic_group/next12"
+    ],
+    "_attributes": {
+      "search": "South Africa"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?South\\s+Africa(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/south_sudan",
+    "_name": "South Sudan",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/north_africa",
+    	"countries/un_region/asia/geopolitics/greater_middle_east"
+    ],
+    "_attributes": {
+      "search": "South Sudan"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?South\\s+Sudan(ese)?"
+    ]
+  },
+  {
+    "_key": "countries/spain",
+    "_name": "Spain",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/southern_europe"
+    ],
+    "_attributes": {
+      "search": "Spain"
+    },
+    "_patterns": [
+      "(Kingdom\\s+of\\s+)?Spa(in|nish)"
+    ]
+  },
+  {
+    "_key": "countries/sri_lanka",
+    "_name": "Sri Lanka",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/south_asia"
+    ],
+    "_attributes": {
+      "search": "Sri Lanka"
+    },
+    "_patterns": [
+      "((Democratic\\s+Socialist\\s+)?Republic\\s+of\\s+)?Sri\\s+Lanka(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/sudan",
+    "_name": "Sudan",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/north_africa"
+    ],
+    "_attributes": {
+      "search": "Sudan"
+    },
+    "_patterns": [
+      "(?<!South(\\s{1,3}))(Republic\\s+of\\s+((T|t)he\\s+)?)?Sudan(ese)?"
+    ]
+  },
+  {
+    "_key": "countries/suriname",
+    "_name": "Suriname",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/caribbean",
+    	"countries/un_region/americas/un_subregion/south_america"
+    ],
+    "_attributes": {
+      "search": "Suriname"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Suriname(se)?"
+    ]
+  },
+  {
+    "_key": "countries/swaziland",
+    "_name": "Swaziland",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/southern_africa"
+    ],
+    "_attributes": {
+      "search": "Swaziland"
+    },
+    "_patterns": [
+      "(Kingdom\\s+of\\s+)?Swaziland"
+    ]
+  },
+  {
+    "_key": "countries/sweden",
+    "_name": "Sweden",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/northern_europe",
+    	"countries/un_region/europe/other_groupings/nordic_countries"
+    ],
+    "_attributes": {
+      "search": "Sweden"
+    },
+    "_patterns": [
+      "(Kingdom\\s+of\\s+)?Swed(e(n|s)?|ish)"
+    ]
+  },
+  {
+    "_key": "countries/switzerland",
+    "_name": "Switzerland",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/western_europe",
+    	"countries/un_region/europe/other_groupings/central_europe"
+    ],
+    "_attributes": {
+      "search": "Switzerland"
+    },
+    "_patterns": [
+      "Switzerland",
+      "Swiss(\\s+Confederation)?"
+    ]
+  },
+  {
+    "_key": "countries/syria",
+    "_name": "Syria",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/western_asia",
+    	"countries/un_region/asia/geopolitics/middle_east"
+    ],
+    "_attributes": {
+      "search": "Syria"
+    },
+    "_patterns": [
+      "Syria(n(s)?)?(\\s+Arab\\s+Republic)?"
+    ]
+  },
+  {
+    "_key": "countries/tajikistan",
+    "_name": "Tajikistan",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/central_asia",
+    	"countries/un_region/asia/geopolitics/greater_middle_east"
+    ],
+    "_attributes": {
+      "search": "Tajikistan"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Tajikistan(i(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/tanzania",
+    "_name": "Tanzania",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/east_africa"
+    ],
+    "_attributes": {
+      "search": "Tanzania"
+    },
+    "_patterns": [
+      "((United\\s+)?Republic\\s+of\\s+)?Tanzania(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/thailand",
+    "_name": "Thailand",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/southeast_asia"
+    ],
+    "_attributes": {
+      "search": "Thailand"
+    },
+    "_patterns": [
+      "(Kingdom\\s+of\\s+)?Thai(land|s)?"
+    ]
+  },
+  {
+    "_key": "countries/togo",
+    "_name": "Togo",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/west_africa"
+    ],
+    "_attributes": {
+      "search": "Togo"
+    },
+    "_patterns": [
+      "Togo(lese)?(\\s+Republic)?"
+    ]
+  },
+  {
+    "_key": "countries/tonga",
+    "_name": "Tonga",
+    "_groupKeys": [
+    	"countries/un_region/oceania/un_subregion/polynesia"
+    ],
+    "_attributes": {
+      "search": "Tonga"
+    },
+    "_patterns": [
+      "(Kingdom\\s+of\\s+)?Tonga(nese)?"
+    ]
+  },
+  {
+    "_key": "countries/trinidad_and_tobago",
+    "_name": "Trinidad and Tobago",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/caribbean"
+    ],
+    "_attributes": {
+      "search": "Trinidad and Tobago"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Trinidad\\s+and\\s+Tobago"
+    ]
+  },
+  {
+    "_key": "countries/tunisia",
+    "_name": "Tunisia",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/north_africa",
+    	"countries/un_region/asia/geopolitics/greater_middle_east"
+    ],
+    "_attributes": {
+      "search": "Tunisia"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Tunisia(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/turkey",
+    "_name": "Turkey",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/western_asia",
+    	"countries/un_region/asia/geopolitics/greater_middle_east",
+		"countries/economic_group/next12"
+    ],
+    "_attributes": {
+      "search": "Turkey"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Turk(ey|ish)"
+    ]
+  },
+  {
+    "_key": "countries/turkmenistan",
+    "_name": "Turkmenistan",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/central_asia",
+    	"countries/un_region/asia/geopolitics/greater_middle_east"
+    ],
+    "_attributes": {
+      "search": "Turkmenistan"
+    },
+    "_patterns": [
+      "Turkmenistan(i(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/tuvalu",
+    "_name": "Tuvalu",
+    "_groupKeys": [
+    	"countries/un_region/oceania/un_subregion/polynesia"
+    ],
+    "_attributes": {
+      "search": "Tuvalu"
+    },
+    "_patterns": [
+      "Tuvalu"
+    ]
+  },
+  {
+    "_key": "countries/uganda",
+    "_name": "Uganda",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/east_africa"
+    ],
+    "_attributes": {
+      "search": "Uganda"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Uganda(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/ukraine",
+    "_name": "Ukraine",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/eastern_europe"
+    ],
+    "_attributes": {
+      "search": "Ukraine"
+    },
+    "_patterns": [
+      "Ukrain(e|ian(s)?)"
+    ]
+  },
+  {
+    "_key": "countries/united_arab_emirates",
+    "_name": "United Arab Emirates",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/western_asia",
+    	"countries/un_region/asia/geopolitics/middle_east"
+    ],
+    "_attributes": {
+      "search": "United Arab Emirates"
+    },
+    "_patterns": [
+      "U(\\.?)A(\\.?)E(\\.?)",
+      "United\\s+Arab\\s+Emirates"
+    ]
+  },
+  {
+    "_key": "countries/uk",
+    "_name": "UK",
+    "_groupKeys": [
+    	"countries/un_region/europe/un_subregion/northern_europe",
+    	"countries/economic_group/g8"
+    ],
+    "_attributes": {
+      "search": "UK"
+    },
+    "_patterns": [
+      "U(\\.?)K(\\.?)",
+      "(Great\\s+)?Brit(ain|ish)",
+      "United\\s+Kingdom(\\s+of\\s+Great\\s+Britain\\s+and\\s+Northern\\s+Ireland)?"
+    ]
+  },
+  {
+    "_key": "countries/usa",
+    "_name": "USA",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/northern_america",
+    	"countries/economic_group/g8"
+    ],
+    "_attributes": {
+      "search": "USA"
+    },
+    "_patterns": [
+      "U(\\.?)S(\\.?)(A(\\.?))?",
+      "United\\s+States(\\s+of\\s+America)?"
+    ]
+  },
+  {
+    "_key": "countries/uruguay",
+    "_name": "Uruguay",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/south_america"
+    ],
+    "_attributes": {
+      "search": "Uruguay"
+    },
+    "_patterns": [
+      "((Oriental\\s+)?Republic\\s+of\\s+)?Uruguay"
+    ]
+  },
+  {
+    "_key": "countries/uzbekistan",
+    "_name": "Uzbekistan",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/central_asia",
+    	"countries/un_region/asia/geopolitics/greater_middle_east"
+    ],
+    "_attributes": {
+      "search": "Uzbekistan"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Uzbekistan(i(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/vanuatu",
+    "_name": "Vanuatu",
+    "_groupKeys": [
+    	"countries/un_region/oceania/un_subregion/melanesia"
+    ],
+    "_attributes": {
+      "search": "Vanuatu"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Vanuatu"
+    ]
+  },
+  {
+    "_key": "countries/venezuela",
+    "_name": "Venezuela",
+    "_groupKeys": [
+    	"countries/un_region/americas/un_subregion/caribbean",
+    	"countries/un_region/americas/un_subregion/south_america"
+    ],
+    "_attributes": {
+      "search": "Venezuela"
+    },
+    "_patterns": [
+      "((Bolivarian\\s+)?Republic\\s+of\\s+)?Venezuela(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/vietnam",
+    "_name": "Vietnam",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/southeast_asia"
+    ],
+    "_attributes": {
+      "search": "Vietnam"
+    },
+    "_patterns": [
+      "((Socialist\\s+)?Republic\\s+of\\s+)?Vietnam(ese)?"
+    ]
+  },
+  {
+    "_key": "countries/yemen",
+    "_name": "Yemen",
+    "_groupKeys": [
+    	"countries/un_region/asia/un_subregion/western_asia",
+    	"countries/un_region/asia/geopolitics/middle_east"
+    ],
+    "_attributes": {
+      "search": "Yemen"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Yemen(i(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/zambia",
+    "_name": "Zambia",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/east_africa"
+    ],
+    "_attributes": {
+      "search": "Zambia"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Zambia(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/zimbabwe",
+    "_name": "Zimbabwe",
+    "_groupKeys": [
+    	"countries/un_region/africa/un_subregion/east_africa"
+    ],
+    "_attributes": {
+      "search": "Zimbabwe"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Zimbabwe(an(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/chechnya",
+    "_name": "Chechnya (Russia)",
+    "_groupKeys": [
+    	"countries/un_region/europe/other_groupings/caucasus"
+    ],
+    "_attributes": {
+      "search": "Chechnya"
+    },
+    "_patterns": [
+      "Chech(en|nya)"
+    ]
+  },
+  {
+    "_key": "countries/dagestan",
+    "_name": "Dagestan (Russia)",
+    "_groupKeys": [
+    	"countries/un_region/europe/other_groupings/caucasus"
+    ],
+    "_attributes": {
+      "search": "Dagestan"
+    },
+    "_patterns": [
+      "Dagestan(i)?"
+    ]
+  },
+  {
+    "_key": "countries/ingushetia",
+    "_name": "Ingushetia (Russia)",
+    "_groupKeys": [
+    	"countries/un_region/europe/other_groupings/caucasus"
+    ],
+    "_attributes": {
+      "search": "Ingushetia"
+    },
+    "_patterns": [
+      "Ingush(etia(n(s)?)?)?"
+    ]
+  },
+  {
+    "_key": "countries/adyghea",
+    "_name": "Adyghea (Russia)",
+    "_groupKeys": [
+    	"countries/un_region/europe/other_groupings/caucasus"
+    ],
+    "_attributes": {
+      "search": "Adyghea"
+    },
+    "_patterns": [
+      "Adyghea"
+    ]
+  },
+  {
+    "_key": "countries/kabardino-balkaria",
+    "_name": "Kabardino-Balkaria (Russia)",
+    "_groupKeys": [
+    	"countries/un_region/europe/other_groupings/caucasus"
+    ],
+    "_attributes": {
+      "search": "Kabardino-Balkaria"
+    },
+    "_patterns": [
+      "Kabardino-Balkaria"
+    ]
+  },
+  {
+    "_key": "countries/karachay-cherkessia",
+    "_name": "Karachay-Cherkessia (Russia)",
+    "_groupKeys": [
+    	"countries/un_region/europe/other_groupings/caucasus"
+    ],
+    "_attributes": {
+      "search": "Karachay-Cherkessia"
+    },
+    "_patterns": [
+      "Karachay-Cherkessia"
+    ]
+  },
+  {
+    "_key": "countries/north_ossetia",
+    "_name": "North Ossetia (Russia)",
+    "_groupKeys": [
+    	"countries/un_region/europe/other_groupings/caucasus"
+    ],
+    "_attributes": {
+      "search": "North Ossetia"
+    },
+    "_patterns": [
+      "North\\s+Ossetia((n)?s)?"
+    ]
+  },
+  {
+    "_key": "countries/krasnodar_krai",
+    "_name": "Krasnodar Krai (Russia)",
+    "_groupKeys": [
+    	"countries/un_region/europe/other_groupings/caucasus"
+    ],
+    "_attributes": {
+      "search": "Krasnodar Krai"
+    },
+    "_patterns": [
+      "Krasnodar\\s+Kra(i|y)"
+    ]
+  },
+  {
+    "_key": "countries/stavropol_krai",
+    "_name": "Stavropol Krai (Russia)",
+    "_groupKeys": [
+    	"countries/un_region/europe/other_groupings/caucasus"
+    ],
+    "_attributes": {
+      "search": "Stavropol Krai"
+    },
+    "_patterns": [
+      "Stavropol\\s+Kra(i|y)"
+    ]
+  },
+  {
+    "_key": "countries/abkhazia",
+    "_name": "Abkhazia (Georgia)",
+    "_groupKeys": [
+    	"countries/un_region/europe/other_groupings/caucasus"
+    ],
+    "_attributes": {
+      "search": "Abkhazia"
+    },
+    "_patterns": [
+      "(Republic\\s+of\\s+)?Abkhazia(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/south_ossetia",
+    "_name": "South Ossetia (Georgia)",
+    "_groupKeys": [
+    	"countries/un_region/europe/other_groupings/caucasus"
+    ],
+    "_attributes": {
+      "search": "South Ossetia"
+    },
+    "_patterns": [
+      "South\\s+Ossetia(n(s)?)?"
+    ]
+  },
+  {
+    "_key": "countries/nakhchivan",
+    "_name": "Nakhchivan (Azerbaijan)",
+    "_groupKeys": [
+    	"countries/un_region/europe/other_groupings/caucasus"
+    ],
+    "_attributes": {
+      "search": "Nakhchivan"
+    },
+    "_patterns": [
+      "Nakhchivan"
+    ]
+  },
+  {
+    "_key": "countries/nagorno-karabakh",
+    "_name": "Nagorno-Karabakh (Azerbaijan)",
+    "_groupKeys": [
+    	"countries/un_region/europe/other_groupings/caucasus"
+    ],
+    "_attributes": {
+      "search": "Nagorno-Karabakh"
+    },
+    "_patterns": [
+      "Nagorno-Karabakh"
+    ]
+  },
+  {
+    "_key": "countries/antarctica",
+    "_name": "Antarctica",
+    "_groupKeys": [
+    	"countries/un_region/antarctica"
+    ],
+    "_attributes": {
+      "search": "Antarctica"
+    },
+    "_patterns": [
+      "(A|a)ntarctic(a)?"
+    ]
+  }
+]

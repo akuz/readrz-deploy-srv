@@ -1,0 +1,28 @@
+[
+  {
+    "_key": "feelings/alive",
+    "_groupKeys": [
+    	"feelings/sentiment/pleasant"
+    ],
+    "_name": "Alive",
+    "_adjustmentFactor": 1.0,
+    "_matchesAreaStdDev": 10.0,
+    "_isStemmed": false,
+    "_words": {
+      "alive": 3.0,
+      "playful": 3.0,
+      "courageous": 3.0,
+      "energetic": 3.0,
+      "liberated": 3.0,
+      "optimistic": 3.0,
+      "provocative": 3.0,
+      "impulsive": 3.0,
+      "free": 3.0,
+      "frisky": 3.0,
+      "animated": 3.0,
+      "spirited": 3.0,
+      "thrilled": 3.0,
+      "wonderful": 3.0
+    }
+  }
+]

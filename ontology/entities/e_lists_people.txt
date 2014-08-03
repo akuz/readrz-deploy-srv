@@ -1,0 +1,149 @@
+{
+  "_id": "e/lists/people",
+  "_list": [
+  {
+    "_id": "trayvon_martin",
+    "_name": "Trayvon Martin",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "Trayvon\\s+Martin"
+    ]
+  },  
+  {
+    "_id": "george_zimmerman",
+    "_name": "George Zimmerman",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "(George\\s+)?Zimmerman"
+    ]
+  },
+  {
+    "_id": "edward_snowden",
+    "_name": "Edward Snowden",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "(Edward\\s+)?Snowden"
+    ]
+  },
+  {
+    "_id": "nelson_mandela",
+    "_name": "Nelson Mandela",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "(Nelson\\s+)?Mandela"
+    ]
+  },
+  {
+    "_id": "mark_cuban",
+    "_name": "Mark Cuban",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "Mark\\s+Cuban"
+    ]
+  },
+  {
+    "_id": "steve_jobs",
+    "_name": "Steve Jobs",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "Steve\\s+Jobs"
+    ]
+  },
+  {
+    "_id": "james_bond",
+    "_name": "James Bond",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "James\\s+Bond"
+    ]
+  },
+  {
+    "_id": "daniel_craig",
+    "_name": "Daniel Craig",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "Daniel\\s+Craig"
+    ]
+  },
+  {
+    "_id": "david_cameron",
+    "_name": "David Cameron",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "(David\\s+)?Cameron"
+    ]
+  },
+  {
+    "_id": "angela_merkel",
+    "_name": "Angela Merkel",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "(Angela\\s+)?Merkel"
+    ]
+  },
+  {
+    "_id": "vladimir_putin",
+    "_name": "Vladimir Putin",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "([Pp]resident\\s+)?(Vladimir\\s+)?Putin"
+    ]
+  },
+  {
+    "_id": "hugo_chavez",
+    "_name": "Hugo Chavez",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "(Hugo\\s+)?Chavez"
+    ]
+  },
+  {
+    "_id": "mitt_romney",
+    "_name": "Mitt Romney",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "(Mitt\\s+)?Romney"
+    ]
+  },
+  {
+    "_id": "barack_obama",
+    "_name": "Barack Obama",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "([Pp]resident\\s+)?(Barack\\s+)?Obama"
+    ]
+  },
+  {
+    "_id": "bill_clinton",
+    "_name": "Bill Clinton",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "Bill\\s+Clinton"
+    ]
+  },
+  {
+    "_id": "hillary_clinton",
+    "_name": "Hillary Clinton",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "Hill?ary\\s+Clinton"
+    ]
+  }
+  ]
+}

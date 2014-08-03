@@ -1,0 +1,21 @@
+{
+	"_key": "emotions",
+	"_name": "Emotions",
+	"_childGroups": [
+		{
+			"_key": "sentiment",
+			"_name": "Sentiment",
+			"_isTaxonomy": true,
+			"_childGroups": [
+				{
+					"_key": "positive",
+					"_name": "Positive"
+				},
+				{
+					"_key": "negative",
+					"_name": "Negative"
+				}
+			]
+		}
+	]
+}

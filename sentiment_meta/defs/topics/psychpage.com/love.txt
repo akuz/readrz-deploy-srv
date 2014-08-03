@@ -1,0 +1,29 @@
+[
+  {
+    "_key": "feelings/love",
+    "_groupKeys": [
+    	"feelings/sentiment/pleasant"
+    ],
+    "_name": "Love",
+    "_adjustmentFactor": 1.0,
+    "_matchesAreaStdDev": 10.0,
+    "_isStemmed": false,
+    "_words": {
+      "love": 3.0,
+      "loving": 3.0,
+      "considerate": 3.0,
+      "affectionate": 3.0,
+      "sensitive": 3.0,
+      "tender": 3.0,
+      "devoted": 3.0,
+      "attracted": 3.0,
+      "passionate": 3.0,
+      "admiration": 3.0,
+      "warm": 3.0,
+      "touched": 3.0,
+      "sympathy": 3.0,
+      "loved": 3.0,
+      "comforted": 3.0
+    }
+  }
+]

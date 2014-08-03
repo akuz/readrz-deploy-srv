@@ -1,0 +1,122 @@
+{
+  "_id": "e/concepts/synonyms",
+  "_list": [
+  {
+    "_id": "death",
+    "_name": "Death",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "[Aa]sphyxat(ed?|ing)",
+      "[Aa]ssassin(at(ed?|ing|or))?",
+      "[Dd]ea(d|th)",
+      "[Dd]ie(d|s)?",
+      "[Dd]ying",
+      "[Dd]rown(ed|ing)?",
+      "[Ff]atal(ity)?",
+      "[Kk]ill(s|ed|er|ing)?",
+      "[Mm]urder(ed|er|ing)?",
+      "[Ss]uicid(e|al)"
+    ]
+  },
+  {
+    "_id": "larry",
+    "_name": "Larry",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "Larry",
+      "Lawrence"
+    ]
+  },
+  {
+    "_id": "hacking",
+    "_name": "Hacking",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "[Hh]ack(s|ing|ed|ers?)?"
+    ]
+  },
+  {
+    "_id": "nuclear",
+    "_name": "Nuclear",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "[Nn]uke(s|d)?",
+      "[Aa]tomic",
+      "[Nn]uclear"
+    ]
+  },
+  {
+    "_id": "mobile_phone",
+    "_name": "Mobile Phone",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "[Cc]ell\\s*[Pp]hones?",
+      "[Mm]obile\\s+[Pp]hones?"
+    ]
+  },
+  {
+    "_id": "reporter",
+    "_name": "Reporter",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "[Jj]ournalist",
+      "[Rr]eporter"
+    ]
+  },
+  {
+    "_id": "larg",
+    "_name": "Large",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "[Ll]arge",
+      "[Bb]ig"
+    ]
+  },
+  {
+    "_id": "largest",
+    "_name": "Largest",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "[Ll]argest",
+      "[Bb]iggest"
+    ]
+  },
+  {
+    "_id": "defence",
+    "_name": "Defence",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "[Dd]efen(ce|se|d(ants?|s|ing|ed)?)"
+    ]
+  },
+  {
+    "_id": "recognise",
+    "_name": "Recognise",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "[Rr]ecogni(tion|(z|s)(ing|e[ds]?))"
+    ]
+  },
+  {
+    "_id": "percent",
+    "_name": "Percent",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "[Pp]ercent",
+      "[Pp]ct",
+      "%"
+    ]
+  }
+  ]
+}

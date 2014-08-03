@@ -1,0 +1,26 @@
+[
+  {
+    "_key": "feelings/open",
+    "_groupKeys": [
+    	"feelings/sentiment/pleasant"
+    ],
+    "_name": "Open",
+    "_adjustmentFactor": 1.0,
+    "_matchesAreaStdDev": 10.0,
+    "_isStemmed": false,
+    "_words": {
+      "understanding": 3.0,
+      "confident": 3.0,
+      "reliable": 3.0,
+      "easy": 3.0,
+      "amazed": 3.0,
+      "free": 3.0,
+      "sympathetic": 3.0,
+      "interested": 3.0,
+      "satisfied": 3.0,
+      "receptive": 3.0,
+      "accepting": 3.0,
+      "kind": 3.0
+    }
+  }
+]

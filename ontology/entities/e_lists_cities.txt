@@ -1,0 +1,32 @@
+{
+  "_id": "e/lists/cities",
+  "_list": [
+  {
+    "_id": "ny",
+    "_name": "New York",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "N(ew|EW|\\.)?\\s*Y(ork|ORK|\\.)?(\\s*C(ity|ITY|\\.)?)?"
+    ]
+  },
+  {
+    "_id": "la",
+    "_name": "Los Angeles",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "L(os|OS|\\.)?\\s*A(ngeles|NGELES|\\.)?"
+    ]
+  },
+  {
+    "_id": "sf",
+    "_name": "San Francisco",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "S(an|AN|\\.)?\\s*F(rancisco|RANCISCO|\\.)?"
+    ]
+  }
+  ]
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "_key": "feelings/positive",
+    "_groupKeys": [
+    	"feelings/sentiment/pleasant"
+    ],
+    "_name": "Positive",
+    "_adjustmentFactor": 1.0,
+    "_matchesAreaStdDev": 10.0,
+    "_isStemmed": false,
+    "_words": {
+      "eager": 3.0,
+      "keen": 3.0,
+      "earnest": 3.0,
+      "intent": 3.0,
+      "anxious": 3.0,
+      "inspired": 3.0,
+      "determined": 3.0,
+      "excited": 3.0,
+      "enthusiastic": 3.0,
+      "bold": 3.0,
+      "brave": 3.0,
+      "daring": 3.0,
+      "challenged": 3.0,
+      "optimistic": 3.0,
+      "reenforced": 3.0,
+      "confident": 3.0,
+      "hopeful": 3.0
+    }
+  }
+]

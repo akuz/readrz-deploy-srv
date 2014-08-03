@@ -1,0 +1,20 @@
+[
+  {
+    "_key": "death",
+    "_name": "Death",
+    "_groupKeys": [
+    ],
+    "_patterns": [
+      "[Aa]sphyxat(ed?|ing)",
+      "[Aa]ssassin(at(ed?|ing))?",
+      "[Dd]ea(d|th)",
+      "[Dd]ied?",
+      "[Dd]ying",
+      "[Dd]rown(ed|ing)?",
+      "[Ff]atal(ity)?",
+      "[Kk]ill(s|ed|ing)?",
+      "[Mm]urder(ed|ing)?",
+      "[Ss]uicid(e|al)"
+    ]
+  }
+]

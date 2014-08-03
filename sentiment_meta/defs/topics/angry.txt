@@ -1,0 +1,37 @@
+[
+  {
+    "_key": "feelings/angry",
+    "_groupKeys": [
+    	"feelings/sentiment/unpleasant"
+    ],
+    "_name": "Angry",
+    "_adjustmentFactor": 1.0,
+    "_matchesAreaStdDev": 10.0,
+    "_isStemmed": false,
+    "_words": {
+      "angry": 3.0,
+      "anger": 3.0,
+      "irritated": 3.0,
+      "enraged": 3.0,
+      "hostile": 3.0,
+      "insulting": 3.0,
+      "sore": 3.0,
+      "annoyed": 3.0,
+      "upset": 3.0,
+      "hateful": 3.0,
+      "unpleasant": 3.0,
+      "offensive": 3.0,
+      "bitter": 3.0,
+      "aggressive": 3.0,
+      "resentful": 3.0,
+      "inflamed": 3.0,
+      "provoked": 3.0,
+      "incensed": 3.0,
+      "infuriated": 3.0,
+      "cross": 3.0,
+      "boiling": 3.0,
+      "fuming": 3.0,
+      "indignant": 3.0
+    }
+  }
+]

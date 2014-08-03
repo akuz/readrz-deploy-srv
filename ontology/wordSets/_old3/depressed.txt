@@ -1,0 +1,34 @@
+[
+  {
+    "_key": "feelings/depressed",
+    "_groupKeys": [
+    	"feelings/sentiment/unpleasant"
+    ],
+    "_name": "Depressed",
+    "_adjustmentFactor": 1.0,
+    "_matchesAreaStdDev": 10.0,
+    "_isStemmed": false,
+    "_words": {
+      "depressed": 3.0,
+      "lousy": 3.0,
+      "disappointed": 3.0,
+      "discouraged": 3.0,
+      "ashamed": 3.0,
+      "powerless": 3.0,
+      "diminished": 3.0,
+      "guilty": 3.0,
+      "dissatisfied": 3.0,
+      "miserable": 3.0,
+      "detestable": 3.0,
+      "repugnant": 3.0,
+      "despicable": 3.0,
+      "disgusting": 3.0,
+      "abominable": 3.0,
+      "terrible": 3.0,
+      "despair": 3.0,
+      "sulky": 3.0,
+      "bad": 3.0,
+      "loss": 3.0
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "_key": "topics/death",
+    "_groupKeys": [
+    	"topics"
+    ],
+    "_name": "Death",
+    "_adjustmentFactor": 1.0,
+    "_matchesAreaStdDev": 10.0,
+    "_isStemmed": false,
+    "_words": {
+      "asphyxate": 3.0,
+      "assassinate": 3.0,
+      "dead": 3.0,
+      "death": 2.0,
+      "die": 3.0,
+      "drown": 2.0,
+      "fatal": 2.0,
+      "fatality": 3.0,
+      "kill": 3.0,
+      "murder": 3.0,
+      "suicide": 3.0
+    }
+  }
+]

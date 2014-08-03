@@ -1,0 +1,68 @@
+{
+	"_key": "companies",
+	"_name": "Companies",
+	"_childGroups": [
+		{
+			"_key": "stock_index",
+			"_name": "Stock Index",
+			"_isTaxonomy": true,
+			"_childGroups": [
+				{
+					"_key": "ftse100",
+					"_name": "FTSE 100"
+				},
+				{
+					"_key": "dax40",
+					"_name": "DAX 40"
+				}
+			]
+		},
+		{
+			"_key": "sector",
+			"_name": "Sector",
+			"_isTaxonomy": true,
+			"_childGroups": [
+				{
+					"_key": "basic_materials",
+					"_name": "Basic Materials"
+				},
+				{
+					"_key": "capital_goods",
+					"_name": "Capital Goods"
+				},
+				{
+					"_key": "consumer",
+					"_name": "Consumer"
+				},
+				{
+					"_key": "energy",
+					"_name": "Energy"
+				},
+				{
+					"_key": "financial",
+					"_name": "Financial"
+				},
+				{
+					"_key": "healthcare",
+					"_name": "Healthcare"
+				},
+				{
+					"_key": "services",
+					"_name": "Services"
+				},
+				{
+					"_key": "technology",
+					"_name": "Technology"
+				},
+				{
+					"_key": "transportation",
+					"_name": "Transportation"
+				},
+				{
+					"_key": "utilities",
+					"_name": "Utilities"
+				}
+			]
+		}
+	]
+}

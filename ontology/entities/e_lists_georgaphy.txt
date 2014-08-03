@@ -1,0 +1,53 @@
+{
+  "_id": "e/lists/geography",
+  "_list": [
+  {
+    "_id": "indian_american",
+    "_name": "Indian American",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "Indian(\\s+|-)American",
+      "American(\\s+|-)Indian"
+    ]
+  },
+  {
+    "_id": "catalonia",
+    "_name": "Catalonia",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "Catal(an|onia)"
+    ]
+  },
+  {
+    "_id": "far_east",
+    "_name": "Far East",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "[Ff]ar(\\s+|-)?[Ee]ast(ern)?"
+    ]
+  },
+  {
+    "_id": "middle_east",
+    "_name": "Middle East",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "[Mm]id(dle\\s+|-)?[Ee]ast"
+    ]
+  },
+  {
+    "_id": "e_u",
+    "_name": "E.U.",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "[Ee]uropean\\s+[Uu]nion",
+      "E\\.U\\.",
+      "EU"
+    ]
+  }
+  ]
+}

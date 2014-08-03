@@ -1,0 +1,61 @@
+{
+  "_id": "g/topics/government",
+  "_name": "Government",
+  "_isTaxonomy": false,
+  "_childGroups": [
+    {
+      "_id": "politics",
+      "_name": "Politics",
+      "_isTaxonomy": true,
+      "_childGroups": [
+        {
+          "_id": "us",
+          "_name": "U.S.",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "uk",
+          "_name": "U.K.",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "world",
+          "_name": "World",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "elections",
+          "_name": "Elections",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "local",
+          "_name": "Local",
+          "_isTaxonomy": false
+        }
+      ]
+    },
+    {
+      "_id": "sectors",
+      "_name": "Sectors",
+      "_isTaxonomy": true,
+      "_childGroups": [
+        {
+          "_id": "law",
+          "_name": "Law",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "security",
+          "_name": "Security",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "military",
+          "_name": "Military",
+          "_isTaxonomy": false
+        }
+      ]
+    }
+  ]
+}

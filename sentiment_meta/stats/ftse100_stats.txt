@@ -1,0 +1,1002 @@
+[
+  {
+    "_id": 10000,
+    "_averageMentionSentiment": 1.1105902797934282,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 8.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10001,
+    "_averageMentionSentiment": 0.10463884122693767,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 16.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10002,
+    "_averageMentionSentiment": 0.10161778254565408,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 12.0,
+      "_betaPosterior": 31.999999999999996
+    }
+  },
+  {
+    "_id": 10003,
+    "_averageMentionSentiment": 0.034129291128603016,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 2.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10004,
+    "_averageMentionSentiment": -0.2509336686856713,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 83.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10005,
+    "_averageMentionSentiment": 0.04758449597605301,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 33.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10006,
+    "_averageMentionSentiment": 0.4059248449314113,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 82.0,
+      "_betaPosterior": 31.999999999999996
+    }
+  },
+  {
+    "_id": 10007,
+    "_averageMentionSentiment": 0.06847542599175217,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 7.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10008,
+    "_averageMentionSentiment": 0.2833460042011309,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 24.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10009,
+    "_averageMentionSentiment": 0.3728918824119192,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 53.0,
+      "_betaPosterior": 31.999999999999996
+    }
+  },
+  {
+    "_id": 10010,
+    "_averageMentionSentiment": 0.01044947728581834,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 67.0,
+      "_betaPosterior": 31.99999999999999
+    }
+  },
+  {
+    "_id": 10011,
+    "_averageMentionSentiment": 0.11005457946016903,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 193.0,
+      "_betaPosterior": 31.99999999999999
+    }
+  },
+  {
+    "_id": 10012,
+    "_averageMentionSentiment": 0.15720781561822003,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 22.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10013,
+    "_averageMentionSentiment": 0.0392014263954349,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 132.0,
+      "_betaPosterior": 31.999999999999996
+    }
+  },
+  {
+    "_id": 10014,
+    "_averageMentionSentiment": 0.10444946130537824,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 283.0,
+      "_betaPosterior": 31.999999999999986
+    }
+  },
+  {
+    "_id": 10015,
+    "_averageMentionSentiment": 0.2837015993962105,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 103.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10016,
+    "_averageMentionSentiment": -0.5210456933320549,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 10.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10017,
+    "_averageMentionSentiment": 0.08307158581743877,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 791.0,
+      "_betaPosterior": 31.99999999999998
+    }
+  },
+  {
+    "_id": 10018,
+    "_averageMentionSentiment": -0.10981505578795392,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 18.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10019,
+    "_averageMentionSentiment": 0.15034631216748798,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 9.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10020,
+    "_averageMentionSentiment": 0.17617718591191295,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 52.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10021,
+    "_averageMentionSentiment": -0.10022695627735631,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 13.0,
+      "_betaPosterior": 31.999999999999996
+    }
+  },
+  {
+    "_id": 10022,
+    "_averageMentionSentiment": 0.10895177585456661,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 140.0,
+      "_betaPosterior": 32.00000000000002
+    }
+  },
+  {
+    "_id": 10023,
+    "_averageMentionSentiment": 0.340519320299781,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 3.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10024,
+    "_averageMentionSentiment": 0.0,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 1.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10025,
+    "_averageMentionSentiment": 0.0,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 3.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10026,
+    "_averageMentionSentiment": -0.05575194419755184,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 71.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10027,
+    "_averageMentionSentiment": 0.27652395127801405,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 16.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10028,
+    "_averageMentionSentiment": 0.5991427909742424,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 9.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10029,
+    "_averageMentionSentiment": 0.0,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 2.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10030,
+    "_averageMentionSentiment": 0.24500943910746859,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 73.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10031,
+    "_averageMentionSentiment": 0.062365726371741606,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 31.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10032,
+    "_averageMentionSentiment": 0.009329079192944418,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 28.0,
+      "_betaPosterior": 31.99999999999999
+    }
+  },
+  {
+    "_id": 10033,
+    "_averageMentionSentiment": 0.053191423035738705,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 12.0,
+      "_betaPosterior": 31.999999999999996
+    }
+  },
+  {
+    "_id": 10034,
+    "_averageMentionSentiment": 0.3016176890935545,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 11.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10035,
+    "_averageMentionSentiment": -0.047753948849687436,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 186.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10036,
+    "_averageMentionSentiment": 0.13657249424787937,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 7.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10037,
+    "_averageMentionSentiment": 0.36954071562863405,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 47.0,
+      "_betaPosterior": 32.00000000000001
+    }
+  },
+  {
+    "_id": 10038,
+    "_averageMentionSentiment": 0.27850266509463595,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 46.0,
+      "_betaPosterior": 32.00000000000001
+    }
+  },
+  {
+    "_id": 10039,
+    "_averageMentionSentiment": 0.0015418727801105325,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 212.0,
+      "_betaPosterior": 31.99999999999999
+    }
+  },
+  {
+    "_id": 10040,
+    "_averageMentionSentiment": 0.43811981112010234,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 35.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10041,
+    "_averageMentionSentiment": 0.04127521845341993,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 37.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10042,
+    "_averageMentionSentiment": 0.1603793503451396,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 15.0,
+      "_betaPosterior": 31.999999999999993
+    }
+  },
+  {
+    "_id": 10043,
+    "_averageMentionSentiment": 0.007429980131240872,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 17.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10044,
+    "_averageMentionSentiment": 0.2638535537756715,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 109.0,
+      "_betaPosterior": 32.00000000000001
+    }
+  },
+  {
+    "_id": 10045,
+    "_averageMentionSentiment": 0.1066257642028543,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 14.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10046,
+    "_averageMentionSentiment": 0.06287894849927894,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 31.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10047,
+    "_averageMentionSentiment": 0.28195348912404833,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 9.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10048,
+    "_averageMentionSentiment": -0.2572374262253001,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 3.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10049,
+    "_averageMentionSentiment": 0.4887518980531452,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 3.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10050,
+    "_averageMentionSentiment": 0.04660325854909387,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 46.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10051,
+    "_averageMentionSentiment": -0.08888478441228546,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 54.0,
+      "_betaPosterior": 32.000000000000014
+    }
+  },
+  {
+    "_id": 10052,
+    "_averageMentionSentiment": 0.5259710758689448,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 15.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10053,
+    "_averageMentionSentiment": 0.4303545656333907,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 18.0,
+      "_betaPosterior": 31.999999999999996
+    }
+  },
+  {
+    "_id": 10054,
+    "_averageMentionSentiment": 0.1576337533981485,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 52.0,
+      "_betaPosterior": 31.999999999999993
+    }
+  },
+  {
+    "_id": 10055,
+    "_averageMentionSentiment": 0.35188730323495704,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 85.0,
+      "_betaPosterior": 31.999999999999996
+    }
+  },
+  {
+    "_id": 10056,
+    "_averageMentionSentiment": 0.5638250730327525,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 5.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10057,
+    "_averageMentionSentiment": 0.328682168001175,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 62.0,
+      "_betaPosterior": 31.999999999999993
+    }
+  },
+  {
+    "_id": 10058,
+    "_averageMentionSentiment": -0.04125793576442568,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 16.0,
+      "_betaPosterior": 31.999999999999996
+    }
+  },
+  {
+    "_id": 10059,
+    "_averageMentionSentiment": 0.28146188478717776,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 6.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10060,
+    "_averageMentionSentiment": 0.44487486312344215,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 21.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10061,
+    "_averageMentionSentiment": 0.6761704136533931,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 48.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10062,
+    "_averageMentionSentiment": 0.7211600686495231,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 3.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10063,
+    "_averageMentionSentiment": 0.4816308809719825,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 19.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10064,
+    "_averageMentionSentiment": 0.02721093020941248,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 6.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10065,
+    "_averageMentionSentiment": 0.2867497516744609,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 27.0,
+      "_betaPosterior": 32.00000000000001
+    }
+  },
+  {
+    "_id": 10066,
+    "_averageMentionSentiment": 0.2654208710142258,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 5.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10067,
+    "_averageMentionSentiment": -0.08498870770548483,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 8.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10068,
+    "_averageMentionSentiment": 0.2641854449832326,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 21.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10069,
+    "_averageMentionSentiment": -0.015428262286959012,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 14.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10070,
+    "_averageMentionSentiment": 0.0,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 1.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10071,
+    "_averageMentionSentiment": -0.21977323852251837,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 4.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10072,
+    "_averageMentionSentiment": 0.18705913356584092,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 84.0,
+      "_betaPosterior": 32.00000000000001
+    }
+  },
+  {
+    "_id": 10073,
+    "_averageMentionSentiment": -0.04008986031705759,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 50.0,
+      "_betaPosterior": 32.00000000000001
+    }
+  },
+  {
+    "_id": 10074,
+    "_averageMentionSentiment": 0.05009873300655018,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 294.0,
+      "_betaPosterior": 31.999999999999986
+    }
+  },
+  {
+    "_id": 10075,
+    "_averageMentionSentiment": 0.1369315598054014,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 98.0,
+      "_betaPosterior": 32.000000000000014
+    }
+  },
+  {
+    "_id": 10076,
+    "_averageMentionSentiment": 0.032702432621491376,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 15.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10077,
+    "_averageMentionSentiment": -0.7521593033597915,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 69.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10078,
+    "_averageMentionSentiment": 0.3365314068091725,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 12.0,
+      "_betaPosterior": 31.999999999999996
+    }
+  },
+  {
+    "_id": 10079,
+    "_averageMentionSentiment": 0.2587556806534463,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 19.0,
+      "_betaPosterior": 32.00000000000001
+    }
+  },
+  {
+    "_id": 10080,
+    "_averageMentionSentiment": -0.010776337665137303,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 65.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10081,
+    "_averageMentionSentiment": 0.4537523424965055,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 43.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10082,
+    "_averageMentionSentiment": 1.3914713988323384,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 2.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10083,
+    "_averageMentionSentiment": 0.3606065021670596,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 9.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10084,
+    "_averageMentionSentiment": 0.2234775735912533,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 45.0,
+      "_betaPosterior": 31.999999999999986
+    }
+  },
+  {
+    "_id": 10085,
+    "_averageMentionSentiment": 0.17671484044833388,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 6.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10086,
+    "_averageMentionSentiment": 0.022805443563965112,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 83.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10087,
+    "_averageMentionSentiment": 0.2234775735912533,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 45.0,
+      "_betaPosterior": 31.999999999999986
+    }
+  },
+  {
+    "_id": 10088,
+    "_averageMentionSentiment": 0.0,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 1.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10089,
+    "_averageMentionSentiment": 0.18904384003447913,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 126.0,
+      "_betaPosterior": 32.000000000000014
+    }
+  },
+  {
+    "_id": 10090,
+    "_averageMentionSentiment": 0.12719916701677658,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 21.0,
+      "_betaPosterior": 32.00000000000001
+    }
+  },
+  {
+    "_id": 10091,
+    "_averageMentionSentiment": 0.3155486602444481,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 46.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10092,
+    "_averageMentionSentiment": 0.35570760869323464,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 5.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10093,
+    "_averageMentionSentiment": 0.09993341290790245,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 38.0,
+      "_betaPosterior": 31.999999999999996
+    }
+  },
+  {
+    "_id": 10094,
+    "_averageMentionSentiment": 0.33275544607047547,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 89.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10095,
+    "_averageMentionSentiment": 0.21223772783006817,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 103.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10096,
+    "_averageMentionSentiment": -0.16980173652583574,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 4.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10097,
+    "_averageMentionSentiment": -0.1969766199375685,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 252.0,
+      "_betaPosterior": 32.00000000000002
+    }
+  },
+  {
+    "_id": 10098,
+    "_averageMentionSentiment": 0.6335808698785441,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 11.0,
+      "_betaPosterior": 32.0
+    }
+  },
+  {
+    "_id": 10099,
+    "_averageMentionSentiment": 0.2043633918882747,
+    "_frequencyPosterior": {
+      "_alphaPrior": 1.0,
+      "_betaPrior": 1.0,
+      "_alphaPosterior": 298.0,
+      "_betaPosterior": 31.999999999999996
+    }
+  }
+]

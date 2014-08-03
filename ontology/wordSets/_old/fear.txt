@@ -1,0 +1,65 @@
+[
+  {
+    "_key": "emotions/fear",
+    "_groupKeys": [
+    	"emotions/sentiment/negative"
+    ],
+    "_name": "Fear",
+    "_adjustmentFactor": 1.0,
+    "_matchesAreaStdDev": 10.0,
+    "_isStemmed": false,
+    "_words": {
+    
+      "fear": 3.0,
+      "afraid": 3.0,
+      
+      "afeard": 3.0,
+      "afeared": 3.0,
+      "aghast": 3.0,
+      "appalled": 3.0,
+      "dismayed": 3.0,
+      "shocked": 3.0,
+      "agoraphobic": 3.0,
+      "alarmed": 3.0,
+      "algophobic": 3.0,
+      "apprehensive": 2.0,
+      "hangdog": 3.0,
+      "claustrophobic": 3.0,
+      "fearful": 3.0,
+      "scared": 3.0,
+      "outraged": 3.0,
+      "horrified": 3.0,
+      "horror": 3.0,
+      "hydrophobic": 3.0,
+      "aquaphobic": 3.0,
+      "mysophobic": 3.0,
+      "panicky": 3.0,
+      "panicked": 3.0,
+      "panic": 3.0,
+      "terrified": 3.0,
+      "frightened": 3.0,
+      "triskaidekaphobic": 3.0,
+      "unnerved": 3.0,
+      "xenophobic": 3.0,
+      
+      "fright": 3.0,
+      "fearfulness": 3.0,
+      "scare": 3.0,
+      "alarm": 2.0,
+      "dismay": 3.0,
+      "consternation": 3.0,
+
+      "creeps": 3.0,
+      "frisson": 3.0,
+      "shiver": 3.0,
+      "chill": 3.0,
+      "enrage": 3.0,
+      "quiver": 3.0,
+      "shudder": 3.0,
+      "hysteria": 3.0,
+      "affright": 3.0,
+      "dread": 3.0,
+      "intimidation": 3.0
+    }
+  }
+]

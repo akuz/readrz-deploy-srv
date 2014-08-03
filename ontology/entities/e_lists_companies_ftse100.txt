@@ -1,0 +1,1416 @@
+{
+  "_id": "e/lists/companies",
+  "_list": [
+  {
+    "_id": "lon_adn",
+    "_name": "Aberdeen Asset Management plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/financial"
+    ],
+    "_tickers": [
+      "LON:ADN"
+    ],
+    "_patterns": [
+      "LON:\\s*ADN",
+      "Aberdeen\\s+Asset(\\s+Management(\\s+(PLC|Plc|plc))?)?"
+    ]
+  },
+  {
+    "_id": "lon_adm",
+    "_name": "Admiral Group plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/financial"
+    ],
+    "_tickers": [
+      "LON:ADM"
+    ],
+    "_patterns": [
+      "LON:\\s*ADM",
+      "Admiral\\s+Group(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_agk",
+    "_name": "Aggreko plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/services"
+    ],
+    "_tickers": [
+      "LON:AGK"
+    ],
+    "_patterns": [
+      "LON:\\*AGK",
+      "Aggreko(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_amec",
+    "_name": "AMEC plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/capital_goods"
+    ],
+    "_tickers": [
+      "LON:AMEC"
+    ],
+    "_patterns": [
+      "LON:\\s*AMEC",
+      "AMEC(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_aal",
+    "_name": "Anglo American plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/basic_materials"
+    ],
+    "_tickers": [
+      "LON:AAL"
+    ],
+    "_patterns": [
+      "LON:\\s*AAL",
+      "Anglo\\s+American(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_anto",
+    "_name": "Antofagasta plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/basic_materials"
+    ],
+    "_tickers": [
+      "LON:ANTO"
+    ],
+    "_patterns": [
+      "LON:\\s*ANTO",
+      "Antofagasta(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_arm",
+    "_name": "ARM Holdings plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/technology"
+    ],
+    "_tickers": [
+      "LON:ARM"
+    ],
+    "_patterns": [
+      "LON:\\s*ARM",
+      "ARM\\s+Holdings(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_ashm",
+    "_name": "Ashmore Group plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/financial"
+    ],
+    "_tickers": [
+      "LON:ASHM"
+    ],
+    "_patterns": [
+      "LON:\\s*ASHM",
+      "Ashmore\\s+Group(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_abf",
+    "_name": "Associated British Foods plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/consumer"
+    ],
+    "_tickers": [
+      "LON:ABF"
+    ],
+    "_patterns": [
+      "LON:\\s*ABF",
+      "Associated\\s+British\\s+Foods(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_azn",
+    "_name": "AstraZeneca plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/healthcare"
+    ],
+    "_tickers": [
+      "LON:AZN"
+    ],
+    "_patterns": [
+      "LON:\\s*AZN",
+      "AstraZeneca(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_av",
+    "_name": "Aviva plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/financial"
+    ],
+    "_tickers": [
+      "LON:AV"
+    ],
+    "_patterns": [
+      "LON:\\s*AV",
+      "Aviva(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_ba",
+    "_name": "BAE Systems plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/capital_goods"
+    ],
+    "_tickers": [
+      "LON:BA"
+    ],
+    "_patterns": [
+      "LON:\\s*BA",
+      "BAE(\\s+Systems)?(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_bg",
+    "_name": "BG Group plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/energy"
+    ],
+    "_tickers": [
+      "LON:BG"
+    ],
+    "_patterns": [
+      "LON:\\s*BG",
+      "BG\\s+Group(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_blt",
+    "_name": "BHP Billiton plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/basic_materials"
+    ],
+    "_tickers": [ 
+      "LON:BLT"
+    ],
+    "_patterns": [
+      "LON:\\s*BLT",
+      "BHP\\s+Billiton(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_bp",
+    "_name": "BP plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/energy"
+    ],
+    "_tickers": [ 
+      "LON:BP"
+    ],
+    "_patterns": [
+      "LON:\\s*BP",
+      "BP(\\s+(PLC|Plc|plc))?",
+      "British\\s+Petroleum(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_bt",
+    "_name": "BT Group plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/services"
+    ],
+    "_tickers": [ 
+      "LON:BT"
+    ],
+    "_patterns": [
+      "LON:\\s*BT",
+      "BT(\\s+Group)?(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_bab",
+    "_name": "Babcock International Group plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/transportation"
+    ],
+    "_tickers": [ 
+      "LON:BAB"
+    ],
+    "_patterns": [
+      "LON:\\s*BAB",
+      "Babcock(\\s+International(\\s+Group)?)?(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_barc",
+    "_name": "Barclays plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/financial"
+    ],
+    "_tickers": [ 
+      "LON:BARC"
+    ],
+    "_patterns": [
+      "LON:\\s*BARC",
+      "Barclays(?!\\s{1,3}Center)(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_bats",
+    "_name": "British American Tabacco plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/consumer"
+    ],
+    "_tickers": [ 
+      "LON:BATS"
+    ],
+    "_patterns": [
+      "LON:\\s*BATS",
+      "British\\s+American\\s+Tobacco(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_blnd",
+    "_name": "The British Land Company plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/services"
+    ],
+    "_tickers": [ 
+      "LON:BLND"
+    ],
+    "_patterns": [
+      "LON:\\s*BLND",
+      "(The\\s+)?British\\s+Land(\\s+Company)?(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_bsy",
+    "_name": "British Sky Broadcasting Group plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/services"
+    ],
+    "_tickers": [ 
+      "LON:BSY"
+    ],
+    "_patterns": [
+      "LON:\\s*BSY",
+      "BSkyB",
+      "British\\s+Sky\\s+Broadcasting(\\s+Group)?(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_bnzl",
+    "_name": "Bunzl plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/basic_materials"
+    ],
+    "_tickers": [ 
+      "LON:BNZL"
+    ],
+    "_patterns": [
+      "LON:\\s*BNZL",
+      "Bunzl(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_brby",
+    "_name": "Burberry Group plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/consumer"
+    ],
+    "_tickers": [ 
+      "LON:BRBY"
+    ],
+    "_patterns": [
+      "LON:\\s*BRBY",
+      "Burberry(\\s+Group)?(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_crh",
+    "_name": "CRH plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/capital_goods"
+    ],
+    "_tickers": [ 
+      "LON:CRH"
+    ],
+    "_patterns": [
+      "LON:\\s*CRH",
+      "CRH(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_ctagf",
+    "_name": "Capita Group plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/services"
+    ],
+    "_tickers": [ 
+      "LON:CTAGF"
+    ],
+    "_patterns": [
+      "(LON:|PINK:)\\s*CTAGF",
+      "Capita\\s+Group(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_cscg",
+    "_name": "Capital Shopping Centres Group plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/services"
+    ],
+    "_tickers": [ 
+      "LON:CSCG"
+    ],
+    "_patterns": [
+      "LON:\\s*CSCG",
+      "Capital\\s+Shopping(\\s+Centres(\\s+Group(\\s+(PLC|Plc|plc))?)?)?"
+    ]
+  },
+  {
+    "_id": "lon_ccl",
+    "_name": "Carnival plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/services"
+    ],
+    "_tickers": [ 
+      "LON:CCL"
+    ],
+    "_patterns": [
+      "LON:\\s*CCL",
+      "Carnival(\\s+(PLC|Plc|plc))"
+    ]
+  },
+  {
+    "_id": "lon_cna",
+    "_name": "Centrica plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/utilities"
+    ],
+    "_tickers": [ 
+      "LON:CNA"
+    ],
+    "_patterns": [
+      "LON:\\s*CNA",
+      "Centrica(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_cpg",
+    "_name": "Compass Group plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/services"
+    ],
+    "_tickers": [ 
+      "LON:CPG"
+    ],
+    "_patterns": [
+      "LON:\\s*CPG",
+      "Compass\\s+Group(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_crda",
+    "_name": "Croda International plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/basic_materials"
+    ],
+    "_tickers": [ 
+      "LON:CRDA"
+    ],
+    "_patterns": [
+      "LON:\\s*CRDA",
+      "Croda\\s+International(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_dge",
+    "_name": "Diageo plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/consumer"
+    ],
+    "_tickers": [ 
+      "LON:DGE"
+    ],
+    "_patterns": [
+      "LON:\\s*DGE",
+      "Diageo(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_enrc",
+    "_name": "Eurasian Natural Resources Corporation",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/basic_materials"
+    ],
+    "_tickers": [ 
+      "LON:ENRC"
+    ],
+    "_patterns": [
+      "LON:\\s*ENRC",
+      "Eurasian\\s+Natural\\s+Resources(\\s+Corp(oration)?)?"
+    ]
+  },
+  {
+    "_id": "lon_evr",
+    "_name": "EVRAZ plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/basic_materials"
+    ],
+    "_tickers": [ 
+      "LON:EVR"
+    ],
+    "_patterns": [
+      "LON:\\s*EVR",
+      "((EVRAZ)|(Evraz))(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_expn",
+    "_name": "Experian plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/services"
+    ],
+    "_tickers": [ 
+      "LON:EXPN"
+    ],
+    "_patterns": [
+      "LON:\\s*EXPN",
+      "Experian(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_fres",
+    "_name": "Fresnillo plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/basic_materials"
+    ],
+    "_tickers": [ 
+      "LON:FRES"
+    ],
+    "_patterns": [
+      "LON:\\s*FRES",
+      "Fresnillo(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_gfs",
+    "_name": "G4S plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/services"
+    ],
+    "_tickers": [ 
+      "LON:GFS"
+    ],
+    "_patterns": [
+      "LON:\\s*GFS",
+      "G4S(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_gkn",
+    "_name": "GKN plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/consumer"
+    ],
+    "_tickers": [ 
+      "LON:GKN"
+    ],
+    "_patterns": [
+      "LON:\\s*GKN",
+      "GKN(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_gsk",
+    "_name": "GlaxoSmithKline plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/healthcare"
+    ],
+    "_tickers": [ 
+      "LON:GSK"
+    ],
+    "_patterns": [
+      "LON:\\s*GSK",
+      "GlaxoSmithKline(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_glen",
+    "_name": "Glencore International plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/energy"
+    ],
+    "_tickers": [ 
+      "LON:GLEN"
+    ],
+    "_patterns": [
+      "LON:\\s*GLEN",
+      "Glencore\\s+International(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_hsba",
+    "_name": "HSBC Holdings plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/financial"
+    ],
+    "_tickers": [ 
+      "LON:HSBA"
+    ],
+    "_patterns": [
+      "LON:\\s*HSBA",
+      "HSBC(\\s+Holdings)?(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_hmso",
+    "_name": "Hammerson plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/services"
+    ],
+    "_tickers": [ 
+      "LON:HMSO"
+    ],
+    "_patterns": [
+      "LON:\\s*HMSO",
+      "Hammerson(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_hl",
+    "_name": "Hargreaves Lansdown plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/financial"
+    ],
+    "_tickers": [ 
+      "LON:HL"
+    ],
+    "_patterns": [
+      "LON:\\s*HL",
+      "Hargreaves\\s+Lansdown(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_iap",
+    "_name": "ICAP plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/financial"
+    ],
+    "_tickers": [ 
+      "LON:IAP"
+    ],
+    "_patterns": [
+      "LON:\\s*IAP",
+      "ICAP(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_imi",
+    "_name": "IMI plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/basic_materials"
+    ],
+    "_tickers": [ 
+      "LON:IMI"
+    ],
+    "_patterns": [
+      "LON:\\s*IMI",
+      "IMI(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_itv",
+    "_name": "ITV plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/services"
+    ],
+    "_tickers": [ 
+      "LON:ITV"
+    ],
+    "_patterns": [
+      "LON:\\s*ITV",
+      "ITV(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_imt",
+    "_name": "Imperial Tobacco Group plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/consumer"
+    ],
+    "_tickers": [ 
+      "LON:IMT"
+    ],
+    "_patterns": [
+      "LON:\\s*IMT",
+      "Imperial\\s+Tobacco(\\s+Group)?(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_iag",
+    "_name": "International Consolidated Airlines Grp",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/transportation"
+    ],
+    "_tickers": [ 
+      "LON:IAG"
+    ],
+    "_patterns": [
+      "LON:\\s*IAG",
+      "((IAG)|(International\\s+Consolidated\\s+Airlines(\\s+Grp)?))"
+    ]
+  },
+  {
+    "_id": "lon_ihg",
+    "_name": "InterContinental Hotels Group plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/services"
+    ],
+    "_tickers": [ 
+      "LON:IHG"
+    ],
+    "_patterns": [
+      "LON:\\s*IHG",
+      "InterContinental(\\s+Hotels)?(\\s+Group)?(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_itrk",
+    "_name": "Intertek Group plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/services"
+    ],
+    "_tickers": [ 
+      "LON:ITRK"
+    ],
+    "_patterns": [
+      "LON:\\s*ITRK",
+      "Intertek(\\s+Group)?(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_jmat",
+    "_name": "Johnson Matthey plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/technology"
+    ],
+    "_tickers": [ 
+      "LON:JMAT"
+    ],
+    "_patterns": [
+      "LON:\\s*JMAT",
+      "Johnson\\s+Matthey(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_kaz",
+    "_name": "Kazakhmys plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/basic_materials"
+    ],
+    "_tickers": [ 
+      "LON:KAZ"
+    ],
+    "_patterns": [
+      "LON:\\s*KAZ",
+      "Kazakhmys(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_kgf",
+    "_name": "Kingfisher plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/services"
+    ],
+    "_tickers": [ 
+      "LON:KGF"
+    ],
+    "_patterns": [
+      "LON:\\s*KGF",
+      "Kingfisher(?!\\s{1,3}Airlines)(\\s+(PLC|Plc|plc))"
+    ]
+  },
+  {
+    "_id": "lon_land",
+    "_name": "Land Securities Group plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/services"
+    ],
+    "_tickers": [ 
+      "LON:LAND"
+    ],
+    "_patterns": [
+      "LON:\\s*LAND",
+      "Land\\s+Securities(\\s+Group)?(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_lgen",
+    "_name": "Legal & General Group plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/financial"
+    ],
+    "_tickers": [ 
+      "LON:LGEN"
+    ],
+    "_patterns": [
+      "LON:\\s*LGEN",
+      "L\\s*&\\s*G",
+      "L\\s*\\W*(amp|and)\\W*\\s*G",
+      "Legal\\s*&\\s*General(\\s+Group)?(\\s+(PLC|Plc|plc))?",
+      "Legal\\s*\\W*(amp|and)\\W*\\s*General(\\s+Group)?(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_lloy",
+    "_name": "Lloyds Banking Group plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/financial"
+    ],
+    "_tickers": [ 
+      "LON:LLOY"
+    ],
+    "_patterns": [
+      "LON:\\s*LLOY",
+      "Lloyds\\s+Banking(\\s+Group)?(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_mks",
+    "_name": "Marks and Spencer Group plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/services"
+    ],
+    "_tickers": [ 
+      "LON:MKS"
+    ],
+    "_patterns": [
+      "LON:\\s*MKS",
+      "Marks\\s*&\\s*Spencer(\\s+Group)?(\\s+(PLC|Plc|plc))?",
+      "Marks\\s*\\W*(amp|and)\\W*\\s*Spencer(\\s+Group)?(\\s+(PLC|Plc|plc))?",
+      "M\\s*&\\s*S",
+      "M\\s*\\W*(amp|and)\\W*\\s*S"
+    ]
+  },
+  {
+    "_id": "lon_mggt",
+    "_name": "Meggitt plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/capital_goods"
+    ],
+    "_tickers": [ 
+      "LON:MGGT"
+    ],
+    "_patterns": [
+      "LON:\\s*MGGT",
+      "Meggitt(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_mrw",
+    "_name": "Wm. Morrison Supermarkets plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/services"
+    ],
+    "_tickers": [ 
+      "LON:MRW"
+    ],
+    "_patterns": [
+      "LON:\\s*MRW",
+      "(Wm\\.\\s+)?Morrison(\\Ws)?(\\s+Supermarkets)?(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_ng",
+    "_name": "National Grid plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/utilities"
+    ],
+    "_tickers": [ 
+      "LON:NG"
+    ],
+    "_patterns": [
+      "LON:\\s*NG",
+      "National\\s+Grid(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_nxt",
+    "_name": "NEXT plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/services"
+    ],
+    "_tickers": [ 
+      "LON:NXT"
+    ],
+    "_patterns": [
+      "LON:\\s*NXT",
+      "(NEXT|Next)\\s+(PLC|Plc|plc)"
+    ]
+  },
+  {
+    "_id": "lon_oml",
+    "_name": "Old Mutual plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/financial"
+    ],
+    "_tickers": [ 
+      "LON:OML"
+    ],
+    "_patterns": [
+      "LON:\\s*OML",
+      "Old\\s+Mutual(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_pson",
+    "_name": "Pearson plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/services"
+    ],
+    "_tickers": [ 
+      "LON:PSON"
+    ],
+    "_patterns": [
+      "LON:\\s*PSON",
+      "Pearson\\s+(PLC|Plc|plc)"
+    ]
+  },
+  {
+    "_id": "lon_pnn",
+    "_name": "Pennon Group plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/services"
+    ],
+    "_tickers": [ 
+      "LON:PNN"
+    ],
+    "_patterns": [
+      "LON:\\s*PNN",
+      "Pennon\\s+Group(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_pfc",
+    "_name": "Petrofac Limited",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/capital_goods"
+    ],
+    "_tickers": [ 
+      "LON:PFC"
+    ],
+    "_patterns": [
+      "LON:\\s*PFC",
+      "Petrofac(\\s+Limited)?"
+    ]
+  },
+  {
+    "_id": "lon_poly",
+    "_name": "Polymetal International plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/basic_materials"
+    ],
+    "_tickers": [ 
+      "LON:POLY"
+    ],
+    "_patterns": [
+      "LON:\\s*POLY",
+      "Polymetal\\s+International(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_pru",
+    "_name": "Prudential plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/financial"
+    ],
+    "_tickers": [ 
+      "LON:PRU"
+    ],
+    "_patterns": [
+      "LON:\\s*PRU",
+      "Prudential(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_rsa",
+    "_name": "RSA Insurance Group plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/financial"
+    ],
+    "_tickers": [ 
+      "LON:RSA"
+    ],
+    "_patterns": [
+      "LON:\\s*RSA",
+      "RSA\\s+Insurance(\\s+Group)?(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_rrs",
+    "_name": "Randgold Resources Limited",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/basic_materials"
+    ],
+    "_tickers": [ 
+      "LON:RRS"
+    ],
+    "_patterns": [
+      "LON:\\s*RRS",
+      "Randgold\\s+Resources(\\s+Limited)?"
+    ]
+  },
+  {
+    "_id": "lon_rb",
+    "_name": "Reckitt Benckiser Group plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/consumer"
+    ],
+    "_tickers": [ 
+      "LON:RB"
+    ],
+    "_patterns": [
+      "LON:\\s*RB",
+      "Reckitt\\s+Benckiser(\\s+Group)?(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_rel",
+    "_name": "Reed Elsevier plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/services"
+    ],
+    "_tickers": [ 
+      "LON:REL"
+    ],
+    "_patterns": [
+      "LON:\\s*REL",
+      "Reed\\s+Elsevier(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_rsl",
+    "_name": "Resolution Limited",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/financial"
+    ],
+    "_tickers": [ 
+      "LON:RSL"
+    ],
+    "_patterns": [
+      "LON:\\s*RSL",
+      "Resolution\\s+Limited"
+    ]
+  },
+  {
+    "_id": "lon_rex",
+    "_name": "Rexam plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/basic_materials"
+    ],
+    "_tickers": [ 
+      "LON:REX"
+    ],
+    "_patterns": [
+      "LON:\\s*REX",
+      "Rexam(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_rio",
+    "_name": "Rio Tinto plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/basic_materials"
+    ],
+    "_tickers": [ 
+      "LON:RIO"
+    ],
+    "_patterns": [
+      "LON:\\s*RIO",
+      "Rio\\s+Tinto(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_rr",
+    "_name": "Rolls-Royce Holding plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/capital_goods"
+    ],
+    "_tickers": [ 
+      "LON:RR"
+    ],
+    "_patterns": [
+      "LON:\\s*RR",
+      "Rolls-Royce(\\s+Holding)?(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_rbs",
+    "_name": "Royal Bank of Scotland Group plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/financial"
+    ],
+    "_tickers": [ 
+      "LON:RBS"
+    ],
+    "_patterns": [
+      "(LON:\\s*)?RBS",
+      "Royal\\s+Bank\\s+of\\s+Scotland(\\s+Group)?(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_rdsa",
+    "_name": "Royal Dutch Shell plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/energy"
+    ],
+    "_tickers": [ 
+      "LON:RDSA"
+    ],
+    "_patterns": [
+      "LON:\\s*RDSA",
+      "Royal\\s+Dutch\\s+Shell(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_sab",
+    "_name": "SABMiller plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/consumer"
+    ],
+    "_tickers": [ 
+      "LON:SAB"
+    ],
+    "_patterns": [
+      "LON:\\s*SAB",
+      "SABMiller(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_sge",
+    "_name": "The Sage Group plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/technology"
+    ],
+    "_tickers": [ 
+      "LON:SGE"
+    ],
+    "_patterns": [
+      "LON:\\s*SGE",
+      "(The\\s+)?Sage(\\s+Group)?(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_sbry",
+    "_name": "J Sainsbury plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/services"
+    ],
+    "_tickers": [ 
+      "LON:SBRY"
+    ],
+    "_patterns": [
+      "LON:\\s*SBRY",
+      "(J\\s+)Sainsbury(\\Ws)?(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_sdr",
+    "_name": "Schroders plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/financial"
+    ],
+    "_tickers": [ 
+      "LON:SDR"
+    ],
+    "_patterns": [
+      "LON:\\s*SDR",
+      "Schroders(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_sse",
+    "_name": "SSE plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/utilities"
+    ],
+    "_tickers": [ 
+      "LON:SSE"
+    ],
+    "_patterns": [
+      "LON:\\s*SSE",
+      "Scottish\\s+and\\s+Southern\\s+Energy(\\s+(PLC|Plc|plc))?",
+      "SSE(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_srp",
+    "_name": "Serco Group plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/services"
+    ],
+    "_tickers": [ 
+      "LON:SRP"
+    ],
+    "_patterns": [
+      "LON:\\s*SRP",
+      "Serco(\\s+Group)?(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_svt",
+    "_name": "Severn Trent plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/utilities"
+    ],
+    "_tickers": [ 
+      "LON:SVT"
+    ],
+    "_patterns": [
+      "LON:\\s*SVT",
+      "Severn\\s+Trent(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_shp",
+    "_name": "Shire plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/healthcare"
+    ],
+    "_tickers": [ 
+      "LON:SHP"
+    ],
+    "_patterns": [
+      "(LON:\\s*SHP|NASDAQ:\\s*SHPG)",
+      "Shire\\s+(PLC|Plc|plc)"
+    ]
+  },
+  {
+    "_id": "lon_sn",
+    "_name": "Smith & Nephew plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/healthcare"
+    ],
+    "_tickers": [ 
+      "LON:SN"
+    ],
+    "_patterns": [
+      "LON:\\s*SN",
+      "Smith\\s*&\\s*Nephew(\\s+(PLC|Plc|plc))?",
+      "Smith\\s*\\W*(amp|and)\\W*\\s*Nephew(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_smin",
+    "_name": "Smiths Group plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/basic_materials"
+    ],
+    "_tickers": [ 
+      "LON:SMIN"
+    ],
+    "_patterns": [
+      "LON:\\s*SMIN",
+      "Smiths\\s+Group(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_stan",
+    "_name": "Standard Chartered plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/financial"
+    ],
+    "_tickers": [ 
+      "LON:STAN"
+    ],
+    "_patterns": [
+      "LON:\\s*STAN",
+      "Standard\\s+Chartered(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_sl",
+    "_name": "Standard Life plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/financial"
+    ],
+    "_tickers": [ 
+      "LON:SL"
+    ],
+    "_patterns": [
+      "LON:\\s*SL",
+      "Standard\\s+Life(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_tate",
+    "_name": "Tate & Lyle plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/consumer"
+    ],
+    "_tickers": [ 
+      "LON:TATE"
+    ],
+    "_patterns": [
+      "LON:\\s*TATE",
+      "Tate\\s*&\\s*Lyle(\\s+(PLC|Plc|plc))?",
+      "Tate\\s*\\W*(amp|and)\\W*\\s*Lyle(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_tsco",
+    "_name": "Tesco plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/services"
+    ],
+    "_tickers": [ 
+      "LON:TSCO"
+    ],
+    "_patterns": [
+      "LON:\\s*TSCO",
+      "(Tesco|TESCO)(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_tlw",
+    "_name": "Tullow Oil plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/energy"
+    ],
+    "_tickers": [ 
+      "LON:TLW"
+    ],
+    "_patterns": [
+      "LON:\\s*TLW",
+      "Tullow\\s+Oil(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_ulvr",
+    "_name": "Unilever plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/consumer"
+    ],
+    "_tickers": [ 
+      "LON:ULVR"
+    ],
+    "_patterns": [
+      "LON:\\s*ULVR",
+      "Unilever(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_uu",
+    "_name": "United Utilities Group plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/utilities"
+    ],
+    "_tickers": [ 
+      "LON:UU"
+    ],
+    "_patterns": [
+      "LON:\\s*UU",
+      "United\\s+Utilities(\\s+Group)?(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_ved",
+    "_name": "Vedanta Resources plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/basic_materials"
+    ],
+    "_tickers": [ 
+      "LON:VED"
+    ],
+    "_patterns": [
+      "LON:\\s*VED",
+      "Vedanta\\s+Resources(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_vod",
+    "_name": "Vodafone Group plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/services"
+    ],
+    "_tickers": [ 
+      "LON:VOD"
+    ],
+    "_patterns": [
+      "LON:\\s*VOD",
+      "Vodafone(\\s+Group)?(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_wpp",
+    "_name": "WPP plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/services"
+    ],
+    "_tickers": [ 
+      "LON:WPP"
+    ],
+    "_patterns": [
+      "LON:\\s*WPP",
+      "WPP(\\s+Group)?(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_weir",
+    "_name": "The Weir Group plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/capital_goods"
+    ],
+    "_tickers": [ 
+      "LON:WEIR"
+    ],
+    "_patterns": [
+      "LON:\\s*WEIR",
+      "(The\\s+)?Weir\\s+Group(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_wtb",
+    "_name": "Whitbread plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/services"
+    ],
+    "_tickers": [ 
+      "LON:WTB"
+    ],
+    "_patterns": [
+      "LON:\\s*WTB",
+      "Whitbread(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_wos",
+    "_name": "Wolseley plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/capital_goods"
+    ],
+    "_tickers": [ 
+      "LON:WOS"
+    ],
+    "_patterns": [
+      "LON:\\s*WOS",
+      "Wolseley(\\s+(PLC|Plc|plc))?"
+    ]
+  },
+  {
+    "_id": "lon_xta",
+    "_name": "Xstrata plc",
+    "_groupIds": [
+      "g/companies/stock_index/ftse100/sector/basic_materials"
+    ],
+    "_tickers": [ 
+      "LON:XTA"
+    ],
+    "_patterns": [
+      "LON:\\s*XTA",
+      "Xstrata(\\s+(PLC|Plc|plc))?"
+    ]
+  }
+  ]
+}

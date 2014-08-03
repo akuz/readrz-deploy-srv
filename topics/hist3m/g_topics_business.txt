@@ -1,0 +1,115 @@
+{
+  "_id": "g/topics/business",
+  "_name": "Business",
+  "_isTaxonomy": false,
+  "_childGroups": [
+    {
+      "_id": "events",
+      "_name": "Events",
+      "_isTaxonomy": true,
+      "_childGroups": [
+        {
+          "_id": "deals",
+          "_name": "Deals",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "management",
+          "_name": "Management",
+          "_isTaxonomy": false
+        }
+      ]
+    },
+    {
+      "_id": "sectors",
+      "_name": "Sectors",
+      "_isTaxonomy": true,
+      "_childGroups": [
+        {
+          "_id": "technology",
+          "_name": "Technology",
+          "_isTaxonomy": false,
+          "_childGroups": [
+            {
+              "_id": "areas",
+              "_name": "Areas",
+              "_isTaxonomy": true,
+              "_childGroups": [
+                {
+                  "_id": "apps",
+                  "_name": "Apps",
+                  "_isTaxonomy": false
+                },
+                {
+                  "_id": "devices",
+                  "_name": "Devices",
+                  "_isTaxonomy": false
+                },
+                {
+                  "_id": "startups",
+                  "_name": "Startups",
+                  "_isTaxonomy": false
+                },
+                {
+                  "_id": "internet",
+                  "_name": "Internet",
+                  "_isTaxonomy": false
+                },
+                {
+                  "_id": "games",
+                  "_name": "Games",
+                  "_isTaxonomy": false
+                },
+                {
+                  "_id": "hacking",
+                  "_name": "Hacking",
+                  "_isTaxonomy": false
+                },
+                {
+                  "_id": "software",
+                  "_name": "Software",
+                  "_isTaxonomy": false
+                },
+                {
+                  "_id": "space",
+                  "_name": "Space",
+                  "_isTaxonomy": false
+                },
+                {
+                  "_id": "cars",
+                  "_name": "Cars",
+                  "_isTaxonomy": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_id": "energy",
+          "_name": "Energy",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "retail",
+          "_name": "Retail",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "telecom",
+          "_name": "Telecom",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "pharma",
+          "_name": "Pharma",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "materials",
+          "_name": "Materials",
+          "_isTaxonomy": false
+        }
+      ]
+    }
+  ]
+}

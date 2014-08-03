@@ -1,0 +1,33 @@
+[
+  {
+    "_key": "feelings/happy",
+    "_groupKeys": [
+    	"feelings/sentiment/pleasant"
+    ],
+    "_name": "Happy",
+    "_adjustmentFactor": 1.0,
+    "_matchesAreaStdDev": 10.0,
+    "_isStemmed": false,
+    "_words": {
+      "happy": 3.0,
+      "great": 3.0,
+      "joyous": 3.0,
+      "lucky": 3.0,
+      "fortunate": 3.0,
+      "delighted": 3.0,
+      "overjoyed": 3.0,
+      "gleeful": 3.0,
+      "thankful": 3.0,
+      "important": 3.0,
+      "festive": 3.0,
+      "ecstatic": 3.0,
+      "satisfied": 3.0,
+      "glad": 3.0,
+      "cheerful": 3.0,
+      "sunny": 3.0,
+      "merry": 3.0,
+      "elated": 3.0,
+      "jubilant": 3.0
+    }
+  }
+]

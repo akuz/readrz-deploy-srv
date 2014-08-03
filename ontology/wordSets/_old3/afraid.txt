@@ -1,0 +1,34 @@
+[
+  {
+    "_key": "feelings/afraid",
+    "_groupKeys": [
+    	"feelings/sentiment/unpleasant"
+    ],
+    "_name": "Afraid",
+    "_adjustmentFactor": 1.0,
+    "_matchesAreaStdDev": 10.0,
+    "_isStemmed": false,
+    "_words": {
+      "afraid": 3.0,
+      "fearful": 3.0,
+      "terrified": 3.0,
+      "suspicious": 3.0,
+      "anxious": 3.0,
+      "alarmed": 3.0,
+      "panic": 3.0,
+      "nervous": 3.0,
+      "scared": 3.0,
+      "worried": 3.0,
+      "frightened": 3.0,
+      "timid": 3.0,
+      "shaky": 3.0,
+      "restless": 3.0,
+      "doubtful": 3.0,
+      "threatened": 3.0,
+      "cowardly": 3.0,
+      "quaking": 3.0,
+      "menaced": 3.0,
+      "wary": 3.0
+    }
+  }
+]

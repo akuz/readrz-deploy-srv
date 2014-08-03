@@ -1,0 +1,31 @@
+[
+  {
+    "_key": "feelings/good",
+    "_groupKeys": [
+    	"feelings/sentiment/pleasant"
+    ],
+    "_name": "Good",
+    "_adjustmentFactor": 1.0,
+    "_matchesAreaStdDev": 10.0,
+    "_isStemmed": false,
+    "_words": {
+      "good": 3.0,
+      "calm": 3.0,
+      "peaceful": 3.0,
+      "comfortable": 3.0,
+      "pleased": 3.0,
+      "encouraged": 3.0,
+      "clever": 3.0,
+      "surprised": 3.0,
+      "content": 3.0,
+      "quiet": 3.0,
+      "certain": 3.0,
+      "relaxed": 3.0,
+      "serene": 3.0,
+      "easy": 3.0,
+      "bright": 3.0,
+      "blessed": 3.0,
+      "reassured": 3.0
+    }
+  }
+]

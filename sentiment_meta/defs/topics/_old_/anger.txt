@@ -1,0 +1,61 @@
+[
+  {
+    "_key": "emotions/anger",
+    "_groupKeys": [
+    	"emotions/sentiment/negative"
+    ],
+    "_name": "Anger",
+    "_adjustmentFactor": 1.0,
+    "_matchesAreaStdDev": 10.0,
+    "_isStemmed": false,
+    "_words": {
+    
+      "angry": 3.0,
+      
+      "aggravated": 3.0,
+      "provoked": 3.0,
+      "angered": 3.0,
+      "enraged": 3.0,
+      "furious": 3.0,
+      "infuriated": 3.0,
+      "maddened": 3.0,
+      "choleric": 2.0,
+      "irascible": 2.0,
+      "huffy": 2.0,
+      "mad": 3.0,
+      "sore": 1.0,
+      "inquietude": 3.0,
+      "indignant": 3.0,
+      "incensed": 3.0,
+      "outraged": 3.0,
+      "umbrageous": 3.0,
+      "irate": 3.0,
+      "irateful": 3.0,
+      "livid": 3.0,
+      "smoldering": 3.0,
+      "smouldering": 3.0,
+      "wrathful": 3.0,
+      "wroth": 3.0,
+      "wrothful": 3.0,
+      
+      "anger": 3.0,
+      "choler": 3.0,
+      "ire": 3.0,
+      "ira": 3.0,
+      "angriness": 3.0,
+      "wrath": 3.0,
+      
+      "miff": 3.0,
+      "gall": 1.0,
+      "irk": 2.0,
+      "infuriate": 3.0,
+      "exasperate": 3.0,
+      "madden": 3.0,
+      "pique": 3.0,
+      "offend": 3.0,
+      "enrage": 3.0,
+      "exacerbate": 3.0,
+      "aggravate": 2.0
+    }
+  }
+]

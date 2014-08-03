@@ -1,0 +1,25 @@
+[
+  {
+    "_key": "feelings/interested",
+    "_groupKeys": [
+    	"feelings/sentiment/pleasant"
+    ],
+    "_name": "Interested",
+    "_adjustmentFactor": 1.0,
+    "_matchesAreaStdDev": 10.0,
+    "_isStemmed": false,
+    "_words": {
+      "interested": 3.0,
+      "concerned": 3.0,
+      "affected": 3.0,
+      "fascinated": 3.0,
+      "intrigued": 3.0,
+      "absorbed": 3.0,
+      "inquisitive": 3.0,
+      "nosy": 3.0,
+      "snoopy": 3.0,
+      "engrossed": 3.0,
+      "curious": 3.0
+    }
+  }
+]

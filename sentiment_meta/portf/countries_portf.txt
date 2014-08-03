@@ -1,0 +1,13 @@
+[
+  {
+    "_id": 2,
+    "_name": "Countries",
+    "_category": "Global",
+    "_entityIds": [
+      {
+        "_start": 1000,
+        "_end": 1205
+      }
+    ]
+  }
+]

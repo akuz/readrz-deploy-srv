@@ -1,0 +1,24 @@
+{
+  "_id": "e/concepts/government",
+  "_list": [
+  {
+    "_id": "prime_minster",
+    "_name": "Prime Minister",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "[Pp]rime\\s+[Mm]inister"
+    ]
+  },
+  {
+    "_id": "state_secretary",
+    "_name": "State Secretary",
+    "_groupIds": [
+    ],
+    "_patterns": [
+      "[Ss]tate\\s+[Ss]ecretary",
+      "[Ss]ecretary\\s+of\\s+[Ss]tate"
+    ]
+  }
+  ]
+}

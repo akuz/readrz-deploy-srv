@@ -1,0 +1,235 @@
+{
+	"_id": "g/countries",
+	"_name": "Countries",
+	"_childGroups": [
+		{
+			"_id": "un_region",
+			"_name": "UN Region",
+			"_isTaxonomy": true,
+			"_childGroups": [
+				{
+					"_id": "africa",
+					"_name": "Africa",
+					"_childGroups": [
+						{
+							"_id": "un_subregion",
+							"_name": "UN Subregion",
+							"_isTaxonomy": true,
+							"_childGroups": [
+								{
+									"_id": "east_africa",
+									"_name": "East Africa"
+								},
+								{
+									"_id": "central_africa",
+									"_name": "Central Africa"
+								},
+								{
+									"_id": "north_africa",
+									"_name": "North Africa"
+								},
+								{
+									"_id": "southern_africa",
+									"_name": "Southern Africa"
+								},
+								{
+									"_id": "west_africa",
+									"_name": "West Africa"
+								}
+							]
+						}
+					]
+				},
+				{
+					"_id": "asia",
+					"_name": "Asia",
+					"_childGroups": [
+						{
+							"_id": "un_subregion",
+							"_name": "UN Subregion",
+							"_isTaxonomy": true,
+							"_childGroups": [
+								{
+									"_id": "central_asia",
+									"_name": "Central Asia"
+								},
+								{
+									"_id": "east_asia",
+									"_name": "East Asia"
+								},
+								{
+									"_id": "south_asia",
+									"_name": "South Asia"
+								},
+								{
+									"_id": "southeast_asia",
+									"_name": "Southeast Asia"
+								},
+								{
+									"_id": "western_asia",
+									"_name": "Western Asia"
+								}
+							]
+						}
+					]
+				},
+				{
+					"_id": "europe",
+					"_name": "Europe",
+					"_childGroups": [
+						{
+							"_id": "un_subregion",
+							"_name": "UN Subregion",
+							"_isTaxonomy": true,
+							"_childGroups": [
+								{
+									"_id": "eastern_europe",
+									"_name": "Eastern Europe"
+								},
+								{
+									"_id": "northern_europe",
+									"_name": "Northern Europe"
+								},
+								{
+									"_id": "southern_europe",
+									"_name": "Southern Europe"
+								},
+								{
+									"_id": "western_europe",
+									"_name": "Western Europe"
+								}
+							]
+						},
+						{
+							"_id": "geopolitics",
+							"_name": "Geopolitics",
+							"_isTaxonomy": true,
+							"_childGroups": [
+								{
+									"_id": "baltic_states",
+									"_name": "Baltic States"
+								},
+								{
+									"_id": "benelux",
+									"_name": "Benelux"
+								},
+								{
+									"_id": "caucasus",
+									"_name": "Caucasus"
+								},
+								{
+									"_id": "central_europe",
+									"_name": "Central Europe"
+								},
+								{
+									"_id": "nordic_countries",
+									"_name": "Nordic Countries"
+								},
+								{
+									"_id": "visegrad_group",
+									"_name": "Visegrad Group"
+								}
+							]
+						}
+					]
+				},
+				{
+					"_id": "americas",
+					"_name": "Americas",
+					"_childGroups": [
+						{
+							"_id": "un_subregion",
+							"_name": "UN Subregion",
+							"_isTaxonomy": true,
+							"_childGroups": [
+								{
+									"_id": "caribbean",
+									"_name": "Caribbean"
+								},
+								{
+									"_id": "central_america",
+									"_name": "Central America"
+								},
+								{
+									"_id": "northern_america",
+									"_name": "Northern America"
+								},
+								{
+									"_id": "south_america",
+									"_name": "South America"
+								}
+							]
+						}
+					]
+				},
+				{
+					"_id": "antarctica",
+					"_name": "Antarctica"
+				},
+				{
+					"_id": "oceania",
+					"_name": "Oceania",
+					"_childGroups": [
+						{
+							"_id": "un_subregion",
+							"_name": "UN Subregion",
+							"_isTaxonomy": true,
+							"_childGroups": [
+								{
+									"_id": "aus_and_nz",
+									"_name": "AUS and NZ"
+								},
+								{
+									"_id": "melanesia",
+									"_name": "Melanesia"
+								},
+								{
+									"_id": "micronesia",
+									"_name": "Micronesia"
+								},
+								{
+									"_id": "polynesia",
+									"_name": "Polynesia"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"_id": "economic_group",
+			"_name": "Economic Group",
+			"_isTaxonomy": true,
+			"_childGroups": [
+				{
+					"_id": "g8",
+					"_name": "G8"
+				},
+				{
+					"_id": "g20",
+					"_name": "G20"
+				},
+				{
+					"_id": "brics",
+					"_name": "BRICS"
+				}
+			]
+		},
+		{
+			"_id": "geopolitics",
+			"_name": "Geopolitics",
+			"_isTaxonomy": true,
+			"_childGroups": [
+				{
+					"_id": "middle_east",
+					"_name": "Middle East"
+				},
+				{
+					"_id": "greater_middle_east",
+					"_name": "Greater Middle East"
+				}
+			]
+		}
+	]
+}

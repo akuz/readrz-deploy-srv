@@ -1,0 +1,34 @@
+[
+  {
+    "_key": "feelings/confused",
+    "_groupKeys": [
+    	"feelings/sentiment/unpleasant"
+    ],
+    "_name": "Confused",
+    "_adjustmentFactor": 1.0,
+    "_matchesAreaStdDev": 10.0,
+    "_isStemmed": false,
+    "_words": {
+      "confused": 3.0,
+      "upset": 3.0,
+      "doubtful": 3.0,
+      "uncertain": 3.0,
+      "indecisive": 3.0,
+      "perplexed": 3.0,
+      "embarrassed": 3.0,
+      "hesitant": 3.0,
+      "shy": 3.0,
+      "stupefied": 3.0,
+      "disillusioned": 3.0,
+      "unbelieving": 3.0,
+      "skeptical": 3.0,
+      "distrustful": 3.0,
+      "misgiving": 3.0,
+      "lost": 3.0,
+      "unsure": 3.0,
+      "uneasy": 3.0,
+      "pessimistic": 3.0,
+      "tense": 3.0
+    }
+  }
+]

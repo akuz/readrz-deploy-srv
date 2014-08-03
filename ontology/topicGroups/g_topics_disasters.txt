@@ -1,0 +1,78 @@
+{
+  "_id": "g/topics/disasters",
+  "_name": "Disasters",
+  "_isTaxonomy": false,
+  "_childGroups": [
+    {
+      "_id": "transportation",
+      "_name": "Transportation",
+      "_isTaxonomy": true,
+      "_childGroups": [
+        {
+          "_id": "air",
+          "_name": "Air",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "road",
+          "_name": "Road",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "rail",
+          "_name": "Rail",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "water",
+          "_name": "Water",
+          "_isTaxonomy": false
+        }
+      ]
+    },
+    {
+      "_id": "technological",
+      "_name": "Technological",
+      "_isTaxonomy": true,
+      "_childGroups": [
+        {
+          "_id": "structures",
+          "_name": "Structures",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "pollution",
+          "_name": "Pollution",
+          "_isTaxonomy": false
+        }
+      ]
+    },
+    {
+      "_id": "natural",
+      "_name": "Natural",
+      "_isTaxonomy": true,
+      "_childGroups": [
+        {
+          "_id": "flood",
+          "_name": "Flood",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "wildfire",
+          "_name": "Wildfire",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "quake_tsunami",
+          "_name": "Quake-Tsunami",
+          "_isTaxonomy": false
+        },
+        {
+          "_id": "atmospheric",
+          "_name": "Atmospheric",
+          "_isTaxonomy": false
+        }
+      ]
+    }
+  ]
+}
